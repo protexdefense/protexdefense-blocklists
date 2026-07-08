@@ -4,7 +4,7 @@
 ! Version: 1.0.0
 ! Homepage: https://github.com/protexdefense/adguard-all-list/
 ! License: Mixed
-! Last modified: 2026-07-07T03:15:56.240Z
+! Last modified: 2026-07-08T03:17:10.090Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
