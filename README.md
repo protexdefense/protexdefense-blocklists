@@ -10,7 +10,7 @@ bem-vindas — abra uma issue ou um pull request.
 
 Fontes sem manutenção ativa ou com taxa significativa de falsos positivos não são incluídas.
 
-Última execução: **2026-07-14** — 8 lista(s) publicada(s) (0 sem nenhuma mudança), 1 falha(s).
+Última execução: **2026-07-14** — 8 lista(s) publicada(s) (4 sem nenhuma mudança), 1 falha(s).
 
 ## Como usar
 
@@ -25,7 +25,7 @@ https://raw.githubusercontent.com/protexdefense/protexdefense-blocklists/main/li
 
 ### ads
 
-Arquivo: [`lists/ads.txt`](lists/ads.txt) — 23 fonte(s) ativas, 442265 regras após deduplicação. Atualizado em **2026-07-14**.
+Arquivo: [`lists/ads.txt`](lists/ads.txt) — 23 fonte(s) ativas, 442263 regras após deduplicação. Atualizado em **2026-07-14**.
 
 | Blocklist | Descrição | Homepage | Licença | Raw |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ Arquivo: [`lists/ads.txt`](lists/ads.txt) — 23 fonte(s) ativas, 442265 regras 
 
 ### full
 
-Arquivo: [`lists/full.txt`](lists/full.txt) — 91 fonte(s) ativas, 1227242 regras após deduplicação. Atualizado em **2026-07-14**.
+Arquivo: [`lists/full.txt`](lists/full.txt) — 91 fonte(s) ativas, 1134389 regras após deduplicação. Atualizado em **2026-07-14**.
 
 | Blocklist | Descrição | Homepage | Licença | Raw |
 |---|---|---|---|---|
@@ -166,7 +166,7 @@ Arquivo: [`lists/lite.txt`](lists/lite.txt) — 6 fonte(s) ativas, 299251 regras
 
 ### malware
 
-Arquivo: [`lists/malware.txt`](lists/malware.txt) — 17 fonte(s) ativas, 390936 regras após deduplicação. Atualizado em **2026-07-14**.
+Arquivo: [`lists/malware.txt`](lists/malware.txt) — 17 fonte(s) ativas, 302119 regras após deduplicação. Atualizado em **2026-07-14**.
 
 | Blocklist | Descrição | Homepage | Licença | Raw |
 |---|---|---|---|---|
