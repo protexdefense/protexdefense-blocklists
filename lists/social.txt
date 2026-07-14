@@ -2,9 +2,9 @@
 ! Title: ProtexDefense: Social & Streaming Blocklist
 ! Description: Widgets de redes sociais e anúncios em serviços de streaming.
 ! Version: 1.0.0
-! Homepage: https://github.com/protexdefense/adguard-all-list/
+! Homepage: https://github.com/protexdefense/protexdefense-blocklists/
 ! License: Mixed
-! Last modified: 2026-07-13T03:17:15.581Z
+! Last modified: 2026-07-14T03:24:28.266Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !

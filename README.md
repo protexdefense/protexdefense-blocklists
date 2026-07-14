@@ -10,7 +10,7 @@ bem-vindas — abra uma issue ou um pull request.
 
 Fontes sem manutenção ativa ou com taxa significativa de falsos positivos não são incluídas.
 
-Última execução: **2026-07-13** — 8 lista(s) publicada(s) (0 sem nenhuma mudança), 0 falha(s).
+Última execução: **2026-07-14** — 8 lista(s) publicada(s) (0 sem nenhuma mudança), 1 falha(s).
 
 ## Como usar
 
@@ -25,7 +25,7 @@ https://raw.githubusercontent.com/protexdefense/protexdefense-blocklists/main/li
 
 ### ads
 
-Arquivo: [`lists/ads.txt`](lists/ads.txt) — 19 fonte(s) ativas, 205386 regras após deduplicação. Atualizado em **2026-07-13**.
+Arquivo: [`lists/ads.txt`](lists/ads.txt) — 23 fonte(s) ativas, 442265 regras após deduplicação. Atualizado em **2026-07-14**.
 
 | Blocklist | Descrição | Homepage | Licença | Raw |
 |---|---|---|---|---|
@@ -48,102 +48,112 @@ Arquivo: [`lists/ads.txt`](lists/ads.txt) — 19 fonte(s) ativas, 205386 regras 
 | someonewhocares.org | Lista hosts de Dan Pollock | [Link][someonewhocares.org] | Uso pessoal livre | [Raw][someonewhocares.org.raw] |
 | Adaway original | Blocklist padrão distribuída com o AdAway | [Link][Adaway original] | CC BY 3.0 | [Raw][Adaway original.raw] |
 | BLOCK SPOTIFY SERVERS | Bloqueio de servidores de anúncio do Spotify | - | - | [Raw][BLOCK SPOTIFY SERVERS.raw] |
+| Anudeep's Adservers | Anudeep's Blacklist | [Link][Anudeep's Adservers] | MIT | [Raw][Anudeep's Adservers.raw] |
+| GoodbyeAds | Bloqueio agressivo de anúncios em apps e navegadores mobile/desktop | [Link][GoodbyeAds] | MIT | [Raw][GoodbyeAds.raw] |
+| hBlock | Lista combinada de ads e tracking, mantida ativamente com boa cobertura de redes de anúncio menores | [Link][hBlock] | MIT | [Raw][hBlock.raw] |
+| AdGuard Annoyances Filter | Bloqueio de pop-ups, avisos de notificação e outros elementos irritantes de anúncio | [Link][AdGuard Annoyances Filter] | GPLv3 | [Raw][AdGuard Annoyances Filter.raw] |
 
 ### full
 
-Arquivo: [`lists/full.txt`](lists/full.txt) — 85 fonte(s) ativas, 2723765 regras após deduplicação. Atualizado em **2026-07-13**.
+Arquivo: [`lists/full.txt`](lists/full.txt) — 91 fonte(s) ativas, 1227242 regras após deduplicação. Atualizado em **2026-07-14**.
 
 | Blocklist | Descrição | Homepage | Licença | Raw |
 |---|---|---|---|---|
-| AdGuard DNS filter | Filtro combinado da AdGuard para bloqueio via DNS | [Link][AdGuard DNS filter] | GPLv3 | [Raw][AdGuard DNS filter.raw] |
+| 1Hosts (Lite) | Versão enxuta do 1Hosts | [Link][1Hosts (Lite)] | MIT | [Raw][1Hosts (Lite).raw] |
 | AdAway Default Blocklist | Blocklist padrão distribuída com o AdAway | [Link][AdAway Default Blocklist] | CC BY 3.0 | [Raw][AdAway Default Blocklist.raw] |
-| Dandelion Sprout's Anti Push Notifications | Bloqueio de solicitações de notificações push | [Link][Dandelion Sprout's Anti Push Notifications] | Dandelicence v1.4 | [Raw][Dandelion Sprout's Anti Push Notifications.raw] |
-| WindowsSpyBlocker - Hosts spy rules | Regras para bloquear telemetria/spyware do Windows | [Link][WindowsSpyBlocker - Hosts spy rules] | MIT | [Raw][WindowsSpyBlocker - Hosts spy rules.raw] |
+| Adaway original | Blocklist padrão distribuída com o AdAway | [Link][Adaway original] | CC BY 3.0 | [Raw][Adaway original.raw] |
+| Adblock Plus (Anti-Adblock) | Filtros contra avisos de 'desative seu adblock' | [Link][Adblock Plus (Anti-Adblock)] | GPLv3 | [Raw][Adblock Plus (Anti-Adblock).raw] |
+| Adblock Plus (Exceptions/Allowlist) | Lista de exceções/allowlist padrão do Adblock Plus | [Link][Adblock Plus (Exceptions/Allowlist)] | GPLv3 | [Raw][Adblock Plus (Exceptions/Allowlist).raw] |
+| Adblock Plus - Unusual Ads | - | - | - | [Raw][Adblock Plus - Unusual Ads.raw] |
+| add.Risk | Websites with risk content, malwares etc | [Link][add.Risk] | GPLv3+ | [Raw][add.Risk.raw] |
+| AdGuard Annoyances Filter | Bloqueio de pop-ups, avisos de notificação e outros elementos irritantes de anúncio | [Link][AdGuard Annoyances Filter] | GPLv3 | [Raw][AdGuard Annoyances Filter.raw] |
+| AdGuard DNS filter | Filtro combinado da AdGuard para bloqueio via DNS | [Link][AdGuard DNS filter] | GPLv3 | [Raw][AdGuard DNS filter.raw] |
+| Anti Malware List (alt) | DandelionSprout's Anti Malware Filter | [Link][Anti Malware List (alt)] | Dandelicence v1.4 | [Raw][Anti Malware List (alt).raw] |
+| Anti-Circumvention Filters | Filtros anti-circunvenção de bloqueadores de anúncio | [Link][Anti-Circumvention Filters] | GPLv3 | [Raw][Anti-Circumvention Filters.raw] |
+| Anti-Malware Blocklists (notrack) | NoTrack project Anti-Malware Blocklists | [Link][Anti-Malware Blocklists (notrack)] | GPLv3 | [Raw][Anti-Malware Blocklists (notrack).raw] |
+| Anudeep's Adservers | Bloqueio de anúncios de display/vídeo, incluindo YouTube e Facebook | [Link][Anudeep's Adservers] | MIT | [Raw][Anudeep's Adservers.raw] |
+| AWAvenue Ads Rule | AWAvenue Ads Rule — foco em apps/sites chineses | [Link][AWAvenue Ads Rule] | GPLv3 | [Raw][AWAvenue Ads Rule.raw] |
+| Badd-Boyz-Hosts | A hosts file to block bad domains | [Link][Badd-Boyz-Hosts] | MIT | [Raw][Badd-Boyz-Hosts.raw] |
+| blackbook | Blackbook of malware domains | [Link][blackbook] | Public Domain | [Raw][blackbook.raw] |
+| BLOCK SPOTIFY SERVERS | Bloqueio de servidores de anúncio do Spotify | - | - | [Raw][BLOCK SPOTIFY SERVERS.raw] |
 | CHN: AdRules DNS List | - | - | - | [Raw][CHN: AdRules DNS List.raw] |
 | CHN: anti-AD | - | - | - | [Raw][CHN: anti-AD.raw] |
+| Dan Pollock's List | Lista hosts de Dan Pollock (someonewhocares.org) | [Link][Dan Pollock's List] | Uso pessoal livre | [Raw][Dan Pollock's List.raw] |
+| Dandelion Sprout's Anti Push Notifications | Bloqueio de solicitações de notificações push | [Link][Dandelion Sprout's Anti Push Notifications] | Dandelicence v1.4 | [Raw][Dandelion Sprout's Anti Push Notifications.raw] |
+| Dandelion Sprout's Anti-Malware List | - | - | - | [Raw][Dandelion Sprout's Anti-Malware List.raw] |
+| Dandelion Sprout's Game Console Adblock List | Bloqueio de anúncios em consoles de videogame | [Link][Dandelion Sprout's Game Console Adblock List] | Dandelicence v1.4 | [Raw][Dandelion Sprout's Game Console Adblock List.raw] |
+| EasyList Portuguese + EasyList | EasyList + EasyList Portuguese combinados | [Link][EasyList Portuguese + EasyList] | GPLv3 | [Raw][EasyList Portuguese + EasyList.raw] |
+| eth-phishing-detect | Phishing domains targeting Ethereum users | [Link][eth-phishing-detect] | DON'T BE A DICK PUBLIC LICENSE | [Raw][eth-phishing-detect.raw] |
+| Fanboy Annoyance | Bloqueio de pop-ups e elementos irritantes (Fanboy) | [Link][Fanboy Annoyance] | GPLv3 | [Raw][Fanboy Annoyance.raw] |
+| Fanboy Cookiemonster | Bloqueio de avisos de cookies (Fanboy) | [Link][Fanboy Cookiemonster] | GPLv3 | [Raw][Fanboy Cookiemonster.raw] |
+| fanboy-social | Bloqueio de widgets de redes sociais (Fanboy) | [Link][fanboy-social] | GPLv3 | [Raw][fanboy-social.raw] |
+| Firebog - Easyprivacy | Mirror do EasyPrivacy (bloqueio de rastreadores) | [Link][Firebog - Easyprivacy] | GPLv3 | [Raw][Firebog - Easyprivacy.raw] |
+| Fraud block list | Lists of sites created to fraud | [Link][Fraud block list] | The Unlicense | [Raw][Fraud block list.raw] |
+| GlobalAntiScamOrg-blocklist | Global Anti Scam Organization blocklist | [Link][GlobalAntiScamOrg-blocklist] | BSD-3-Clause | [Raw][GlobalAntiScamOrg-blocklist.raw] |
+| GoodbyeAds | Bloqueio agressivo de anúncios em apps e navegadores mobile/desktop | [Link][GoodbyeAds] | MIT | [Raw][GoodbyeAds.raw] |
+| HaGeZi Multi NORMAL | HaGeZi Multi NORMAL — combinação de ads/tracking/malware | [Link][HaGeZi Multi NORMAL] | MIT | [Raw][HaGeZi Multi NORMAL.raw] |
+| HaGeZi's Gambling DNS Blocklist | - | - | - | [Raw][HaGeZi's Gambling DNS Blocklist.raw] |
+| HaGeZi's Pop-Up Ads DNS Blocklist | HaGeZi Pop-Up Ads DNS Blocklist | [Link][HaGeZi's Pop-Up Ads DNS Blocklist] | MIT | [Raw][HaGeZi's Pop-Up Ads DNS Blocklist.raw] |
+| HaGeZi's Pro Blocklist | HaGeZi Pro — bloqueio balanceado de ads/tracking/telemetria | [Link][HaGeZi's Pro Blocklist] | MIT | [Raw][HaGeZi's Pro Blocklist.raw] |
+| HaGeZi's Pro++ Blocklist | HaGeZi Pro++ — mais agressivo que o Pro | [Link][HaGeZi's Pro++ Blocklist] | MIT | [Raw][HaGeZi's Pro++ Blocklist.raw] |
+| HaGeZi's Threat Intelligence Feeds | HaGeZi Threat Intelligence Feeds | [Link][HaGeZi's Threat Intelligence Feeds] | MIT | [Raw][HaGeZi's Threat Intelligence Feeds.raw] |
+| HaGeZi's Ultimate Blocklist | HaGeZi Ultimate — o mais agressivo da série HaGeZi | [Link][HaGeZi's Ultimate Blocklist] | MIT | [Raw][HaGeZi's Ultimate Blocklist.raw] |
+| hBlock | Lista combinada de ads e tracking, mantida ativamente com boa cobertura de redes de anúncio menores | [Link][hBlock] | MIT | [Raw][hBlock.raw] |
 | HUN: Hufilter | - | - | - | [Raw][HUN: Hufilter.raw] |
 | IDN: ABPindo | - | - | - | [Raw][IDN: ABPindo.raw] |
 | IRN: PersianBlocker list | - | - | - | [Raw][IRN: PersianBlocker list.raw] |
 | KOR: List-KR DNS | - | - | - | [Raw][KOR: List-KR DNS.raw] |
 | KOR: YousList | - | - | - | [Raw][KOR: YousList.raw] |
-| VNM: ABPVN List | - | - | - | [Raw][VNM: ABPVN List.raw] |
-| TUR: Turkish Ad Hosts | - | - | - | [Raw][TUR: Turkish Ad Hosts.raw] |
-| TUR: turk-adlist | - | - | - | [Raw][TUR: turk-adlist.raw] |
-| SWE: Frellwit's Swedish Hosts File | - | - | - | [Raw][SWE: Frellwit's Swedish Hosts File.raw] |
-| POL: Polish filters for Pi-hole | - | - | - | [Raw][POL: Polish filters for Pi-hole.raw] |
-| POL: CERT Polska List of malicious domains | Lista de domínios maliciosos do CERT Polska | [Link][POL: CERT Polska List of malicious domains] | - | [Raw][POL: CERT Polska List of malicious domains.raw] |
-| NOR: Dandelion Sprouts nordiske filtre | - | - | - | [Raw][NOR: Dandelion Sprouts nordiske filtre.raw] |
-| MKD: Macedonian Pi-hole Blocklist | - | - | - | [Raw][MKD: Macedonian Pi-hole Blocklist.raw] |
 | LIT: EasyList Lithuania | - | - | - | [Raw][LIT: EasyList Lithuania.raw] |
-| Phishing URL Blocklist (PhishTank and OpenPhish) | - | - | - | [Raw][Phishing URL Blocklist (PhishTank and OpenPhish).raw] |
-| Dandelion Sprout's Anti-Malware List | - | - | - | [Raw][Dandelion Sprout's Anti-Malware List.raw] |
-| NoCoin Filter List | Bloqueio de mineração de criptomoedas via navegador | [Link][NoCoin Filter List] | MIT | [Raw][NoCoin Filter List.raw] |
-| Scam Blocklist by DurableNapkin | - | - | - | [Raw][Scam Blocklist by DurableNapkin.raw] |
-| ShadowWhisperer's Malware List | - | - | - | [Raw][ShadowWhisperer's Malware List.raw] |
-| Stalkerware Indicators List | Indicadores de apps de stalkerware (monitoramento não consentido) | [Link][Stalkerware Indicators List] | - | [Raw][Stalkerware Indicators List.raw] |
 | Malicious URL Blocklist (URLHaus) | - | - | - | [Raw][Malicious URL Blocklist (URLHaus).raw] |
-| The Big List of Hacked Malware Web Sites | - | - | - | [Raw][The Big List of Hacked Malware Web Sites.raw] |
-| Perflyst and Dandelion Sprout's Smart-TV Blocklist | Telemetria/anúncios de Smart TVs e consoles | [Link][Perflyst and Dandelion Sprout's Smart-TV Blocklist] | - | [Raw][Perflyst and Dandelion Sprout's Smart-TV Blocklist.raw] |
-| Dandelion Sprout's Game Console Adblock List | Bloqueio de anúncios em consoles de videogame | [Link][Dandelion Sprout's Game Console Adblock List] | Dandelicence v1.4 | [Raw][Dandelion Sprout's Game Console Adblock List.raw] |
-| Steven Black's List | Combinação de ads+malware mantida por Steven Black | [Link][Steven Black's List] | MIT | [Raw][Steven Black's List.raw] |
-| Peter Lowe's Blocklist | Blocklist de servidores de anúncios mantida desde os anos 2000 | [Link][Peter Lowe's Blocklist] | CC BY-SA 4.0 | [Raw][Peter Lowe's Blocklist.raw] |
+| MKD: Macedonian Pi-hole Blocklist | - | - | - | [Raw][MKD: Macedonian Pi-hole Blocklist.raw] |
+| MobileFilter | Regras específicas para apps mobile | [Link][MobileFilter] | GPLv3 | [Raw][MobileFilter.raw] |
+| NoCoin Filter List | Bloqueio de mineração de criptomoedas via navegador | [Link][NoCoin Filter List] | MIT | [Raw][NoCoin Filter List.raw] |
+| NOR: Dandelion Sprouts nordiske filtre | - | - | - | [Raw][NOR: Dandelion Sprouts nordiske filtre.raw] |
 | OISD Blocklist Big | OISD Big — lista genérica agressiva (ads+tracking+malware) | [Link][OISD Blocklist Big] | Uso não comercial — ver oisd.nl/pages/faq | [Raw][OISD Blocklist Big.raw] |
 | OISD Blocklist Small | OISD Small — versão enxuta do OISD | [Link][OISD Blocklist Small] | Uso não comercial — ver oisd.nl/pages/faq | [Raw][OISD Blocklist Small.raw] |
-| The NoTracking blocklist | NoTracking — bloqueio de telemetria e rastreadores diversos | [Link][The NoTracking blocklist] | GPLv3 | [Raw][The NoTracking blocklist.raw] |
-| HaGeZi Multi NORMAL | HaGeZi Multi NORMAL — combinação de ads/tracking/malware | [Link][HaGeZi Multi NORMAL] | MIT | [Raw][HaGeZi Multi NORMAL.raw] |
-| Dan Pollock's List | Lista hosts de Dan Pollock (someonewhocares.org) | [Link][Dan Pollock's List] | Uso pessoal livre | [Raw][Dan Pollock's List.raw] |
-| 1Hosts (Lite) | Versão enxuta do 1Hosts | [Link][1Hosts (Lite)] | MIT | [Raw][1Hosts (Lite).raw] |
-| StevenBlack/hosts Pi-Hole | Combinação de ads+malware mantida por Steven Black | [Link][StevenBlack/hosts Pi-Hole] | MIT | [Raw][StevenBlack/hosts Pi-Hole.raw] |
-| AWAvenue Ads Rule | AWAvenue Ads Rule — foco em apps/sites chineses | [Link][AWAvenue Ads Rule] | GPLv3 | [Raw][AWAvenue Ads Rule.raw] |
-| HaGeZi's Pro Blocklist | HaGeZi Pro — bloqueio balanceado de ads/tracking/telemetria | [Link][HaGeZi's Pro Blocklist] | MIT | [Raw][HaGeZi's Pro Blocklist.raw] |
-| HaGeZi's Pro++ Blocklist | HaGeZi Pro++ — mais agressivo que o Pro | [Link][HaGeZi's Pro++ Blocklist] | MIT | [Raw][HaGeZi's Pro++ Blocklist.raw] |
-| HaGeZi's Ultimate Blocklist | HaGeZi Ultimate — o mais agressivo da série HaGeZi | [Link][HaGeZi's Ultimate Blocklist] | MIT | [Raw][HaGeZi's Ultimate Blocklist.raw] |
-| HaGeZi's Threat Intelligence Feeds | HaGeZi Threat Intelligence Feeds | [Link][HaGeZi's Threat Intelligence Feeds] | MIT | [Raw][HaGeZi's Threat Intelligence Feeds.raw] |
-| Phishing Army | - | - | - | [Raw][Phishing Army.raw] |
-| uBlock₀ filters – Badware risks | - | - | - | [Raw][uBlock₀ filters – Badware risks.raw] |
-| BLOCK SPOTIFY SERVERS | Bloqueio de servidores de anúncio do Spotify | - | - | [Raw][BLOCK SPOTIFY SERVERS.raw] |
-| Adblock Plus - Unusual Ads | - | - | - | [Raw][Adblock Plus - Unusual Ads.raw] |
-| add.Risk | Websites with risk content, malwares etc | [Link][add.Risk] | GPLv3+ | [Raw][add.Risk.raw] |
-| Anti Malware List (alt) | DandelionSprout's Anti Malware Filter | [Link][Anti Malware List (alt)] | Dandelicence v1.4 | [Raw][Anti Malware List (alt).raw] |
-| Anti-Malware Blocklists (notrack) | NoTrack project Anti-Malware Blocklists | [Link][Anti-Malware Blocklists (notrack)] | GPLv3 | [Raw][Anti-Malware Blocklists (notrack).raw] |
-| Badd-Boyz-Hosts | A hosts file to block bad domains | [Link][Badd-Boyz-Hosts] | MIT | [Raw][Badd-Boyz-Hosts.raw] |
-| blackbook | Blackbook of malware domains | [Link][blackbook] | Public Domain | [Raw][blackbook.raw] |
-| eth-phishing-detect | Phishing domains targeting Ethereum users | [Link][eth-phishing-detect] | DON'T BE A DICK PUBLIC LICENSE | [Raw][eth-phishing-detect.raw] |
-| Fraud block list | Lists of sites created to fraud | [Link][Fraud block list] | The Unlicense | [Raw][Fraud block list.raw] |
-| GlobalAntiScamOrg-blocklist | Global Anti Scam Organization blocklist | [Link][GlobalAntiScamOrg-blocklist] | BSD-3-Clause | [Raw][GlobalAntiScamOrg-blocklist.raw] |
-| OpenPhish | Phishing Intelligence (mirror do feed público, mais estável que openphish.com direto) | [Link][OpenPhish] | All rights reserved | [Raw][OpenPhish.raw] |
-| Phishing Army Extended | The Extended Blocklist to filter Phishing | [Link][Phishing Army Extended] | CC BY-NC 4.0 | [Raw][Phishing Army Extended.raw] |
-| Ransomware block list | Known sites that host or contain ransomware | [Link][Ransomware block list] | The Unlicense | [Raw][Ransomware block list.raw] |
-| URLhaus | A project to share malicious URLs | [Link][URLhaus] | CC0 | [Raw][URLhaus.raw] |
-| SPY BOT MCLX | ANTI-SPY HOSTS | [Link][SPY BOT MCLX] | - | [Raw][SPY BOT MCLX.raw] |
-| EasyList Portuguese + EasyList | EasyList + EasyList Portuguese combinados | [Link][EasyList Portuguese + EasyList] | GPLv3 | [Raw][EasyList Portuguese + EasyList.raw] |
-| Anti-Circumvention Filters | Filtros anti-circunvenção de bloqueadores de anúncio | [Link][Anti-Circumvention Filters] | GPLv3 | [Raw][Anti-Circumvention Filters.raw] |
-| uBlock filters (2024) | Filtros gerais do uBlock Origin (safra 2024) | [Link][uBlock filters (2024)] | GPLv3 | [Raw][uBlock filters (2024).raw] |
-| uBlock filters – Mobile | Filtros do uBlock Origin específicos para mobile | [Link][uBlock filters – Mobile] | GPLv3 | [Raw][uBlock filters – Mobile.raw] |
-| uBlock filters – Cookie Notices | Avisos de cookies (annoyances) do uBlock Origin | [Link][uBlock filters – Cookie Notices] | GPLv3 | [Raw][uBlock filters – Cookie Notices.raw] |
 | Online Malicious URL Blocklist (AdGuard) | Malicious URL blocklist baseado no URLhaus, formato AdGuard Home | [Link][Online Malicious URL Blocklist (AdGuard)] | CC BY-SA 4.0 | [Raw][Online Malicious URL Blocklist (AdGuard).raw] |
-| Smart-TV Blocklist for AdGuard Home | Telemetria de Smart TVs, formato AdGuard Home | [Link][Smart-TV Blocklist for AdGuard Home] | - | [Raw][Smart-TV Blocklist for AdGuard Home.raw] |
-| VeleSila | Blocklist hosts geral | [Link][VeleSila] | - | [Raw][VeleSila.raw] |
-| Adaway original | Blocklist padrão distribuída com o AdAway | [Link][Adaway original] | CC BY 3.0 | [Raw][Adaway original.raw] |
-| MobileFilter | Regras específicas para apps mobile | [Link][MobileFilter] | GPLv3 | [Raw][MobileFilter.raw] |
-| someonewhocares.org | Lista hosts de Dan Pollock | [Link][someonewhocares.org] | Uso pessoal livre | [Raw][someonewhocares.org.raw] |
-| Adblock Plus (Anti-Adblock) | Filtros contra avisos de 'desative seu adblock' | [Link][Adblock Plus (Anti-Adblock)] | GPLv3 | [Raw][Adblock Plus (Anti-Adblock).raw] |
-| Fanboy Cookiemonster | Bloqueio de avisos de cookies (Fanboy) | [Link][Fanboy Cookiemonster] | GPLv3 | [Raw][Fanboy Cookiemonster.raw] |
-| Firebog - Easyprivacy | Mirror do EasyPrivacy (bloqueio de rastreadores) | [Link][Firebog - Easyprivacy] | GPLv3 | [Raw][Firebog - Easyprivacy.raw] |
-| Phishing URL Blocklist (AdGuard Home) | PhishTank/OpenPhish/Cert.pl based blocklist, formato AdGuard Home | [Link][Phishing URL Blocklist (AdGuard Home)] | CC BY-SA 4.0 | [Raw][Phishing URL Blocklist (AdGuard Home).raw] |
-| URLhaus Host file | A project to share malicious URLs (via StevenBlack/hosts) | [Link][URLhaus Host file] | CC0 | [Raw][URLhaus Host file.raw] |
-| Steven Black (data) | Combinação de ads+malware mantida por Steven Black | [Link][Steven Black (data)] | MIT | [Raw][Steven Black (data).raw] |
+| OpenPhish | Phishing Intelligence (mirror do feed público, mais estável que openphish.com direto) | [Link][OpenPhish] | All rights reserved | [Raw][OpenPhish.raw] |
+| Perflyst and Dandelion Sprout's Smart-TV Blocklist | Telemetria/anúncios de Smart TVs e consoles | [Link][Perflyst and Dandelion Sprout's Smart-TV Blocklist] | - | [Raw][Perflyst and Dandelion Sprout's Smart-TV Blocklist.raw] |
+| Peter Lowe's Blocklist | Blocklist de servidores de anúncios mantida desde os anos 2000 | [Link][Peter Lowe's Blocklist] | CC BY-SA 4.0 | [Raw][Peter Lowe's Blocklist.raw] |
 | ph00lt0 - Blocklist | Blocklist geral mantida pela comunidade | [Link][ph00lt0 - Blocklist] | - | [Raw][ph00lt0 - Blocklist.raw] |
-| HaGeZi's Pop-Up Ads DNS Blocklist | HaGeZi Pop-Up Ads DNS Blocklist | [Link][HaGeZi's Pop-Up Ads DNS Blocklist] | MIT | [Raw][HaGeZi's Pop-Up Ads DNS Blocklist.raw] |
+| Phishing Army | - | - | - | [Raw][Phishing Army.raw] |
+| Phishing Army Extended | The Extended Blocklist to filter Phishing | [Link][Phishing Army Extended] | CC BY-NC 4.0 | [Raw][Phishing Army Extended.raw] |
+| Phishing URL Blocklist (AdGuard Home) | PhishTank/OpenPhish/Cert.pl based blocklist, formato AdGuard Home | [Link][Phishing URL Blocklist (AdGuard Home)] | CC BY-SA 4.0 | [Raw][Phishing URL Blocklist (AdGuard Home).raw] |
+| Phishing URL Blocklist (PhishTank and OpenPhish) | - | - | - | [Raw][Phishing URL Blocklist (PhishTank and OpenPhish).raw] |
+| POL: CERT Polska List of malicious domains | Lista de domínios maliciosos do CERT Polska | [Link][POL: CERT Polska List of malicious domains] | - | [Raw][POL: CERT Polska List of malicious domains.raw] |
+| POL: Polish filters for Pi-hole | - | - | - | [Raw][POL: Polish filters for Pi-hole.raw] |
+| Ransomware block list | Known sites that host or contain ransomware | [Link][Ransomware block list] | The Unlicense | [Raw][Ransomware block list.raw] |
+| Scam Blocklist by DurableNapkin | - | - | - | [Raw][Scam Blocklist by DurableNapkin.raw] |
+| ShadowWhisperer's Malware List | - | - | - | [Raw][ShadowWhisperer's Malware List.raw] |
+| Smart-TV Blocklist for AdGuard Home | Telemetria de Smart TVs, formato AdGuard Home | [Link][Smart-TV Blocklist for AdGuard Home] | - | [Raw][Smart-TV Blocklist for AdGuard Home.raw] |
+| someonewhocares.org | Lista hosts de Dan Pollock | [Link][someonewhocares.org] | Uso pessoal livre | [Raw][someonewhocares.org.raw] |
+| SPY BOT MCLX | ANTI-SPY HOSTS | [Link][SPY BOT MCLX] | - | [Raw][SPY BOT MCLX.raw] |
+| Stalkerware Indicators List | Indicadores de apps de stalkerware (monitoramento não consentido) | [Link][Stalkerware Indicators List] | - | [Raw][Stalkerware Indicators List.raw] |
+| Steven Black (data) | Combinação de ads+malware mantida por Steven Black | [Link][Steven Black (data)] | MIT | [Raw][Steven Black (data).raw] |
+| Steven Black's List | Combinação de ads+malware mantida por Steven Black | [Link][Steven Black's List] | MIT | [Raw][Steven Black's List.raw] |
+| StevenBlack/hosts extension gambling | - | - | - | [Raw][StevenBlack/hosts extension gambling.raw] |
+| StevenBlack/hosts Pi-Hole | Combinação de ads+malware mantida por Steven Black | [Link][StevenBlack/hosts Pi-Hole] | MIT | [Raw][StevenBlack/hosts Pi-Hole.raw] |
+| SWE: Frellwit's Swedish Hosts File | - | - | - | [Raw][SWE: Frellwit's Swedish Hosts File.raw] |
+| The Big List of Hacked Malware Web Sites | - | - | - | [Raw][The Big List of Hacked Malware Web Sites.raw] |
+| The NoTracking blocklist | NoTracking — bloqueio de telemetria e rastreadores diversos | [Link][The NoTracking blocklist] | GPLv3 | [Raw][The NoTracking blocklist.raw] |
+| TUR: turk-adlist | - | - | - | [Raw][TUR: turk-adlist.raw] |
+| TUR: Turkish Ad Hosts | - | - | - | [Raw][TUR: Turkish Ad Hosts.raw] |
+| uBlock filters (2024) | Filtros gerais do uBlock Origin (safra 2024) | [Link][uBlock filters (2024)] | GPLv3 | [Raw][uBlock filters (2024).raw] |
+| uBlock filters – Cookie Notices | Avisos de cookies (annoyances) do uBlock Origin | [Link][uBlock filters – Cookie Notices] | GPLv3 | [Raw][uBlock filters – Cookie Notices.raw] |
+| uBlock filters – Mobile | Filtros do uBlock Origin específicos para mobile | [Link][uBlock filters – Mobile] | GPLv3 | [Raw][uBlock filters – Mobile.raw] |
 | uBlockOrigin filters.txt | Filtros gerais do uBlock Origin | [Link][uBlockOrigin filters.txt] | GPLv3 | [Raw][uBlockOrigin filters.txt.raw] |
-| Fanboy Annoyance | Bloqueio de pop-ups e elementos irritantes (Fanboy) | [Link][Fanboy Annoyance] | GPLv3 | [Raw][Fanboy Annoyance.raw] |
 | uBlockOrigin quick-fixes | Correções rápidas do uBlock Origin | [Link][uBlockOrigin quick-fixes] | GPLv3 | [Raw][uBlockOrigin quick-fixes.raw] |
-| fanboy-social | Bloqueio de widgets de redes sociais (Fanboy) | [Link][fanboy-social] | GPLv3 | [Raw][fanboy-social.raw] |
-| Adblock Plus (Exceptions/Allowlist) | Lista de exceções/allowlist padrão do Adblock Plus | [Link][Adblock Plus (Exceptions/Allowlist)] | GPLv3 | [Raw][Adblock Plus (Exceptions/Allowlist).raw] |
+| uBlock₀ filters – Badware risks | - | - | - | [Raw][uBlock₀ filters – Badware risks.raw] |
+| URLhaus | A project to share malicious URLs | [Link][URLhaus] | CC0 | [Raw][URLhaus.raw] |
+| URLhaus Host file | A project to share malicious URLs (via StevenBlack/hosts) | [Link][URLhaus Host file] | CC0 | [Raw][URLhaus Host file.raw] |
+| VeleSila | Blocklist hosts geral | [Link][VeleSila] | - | [Raw][VeleSila.raw] |
+| VNM: ABPVN List | - | - | - | [Raw][VNM: ABPVN List.raw] |
+| WindowsSpyBlocker - Hosts spy rules | Regras para bloquear telemetria/spyware do Windows | [Link][WindowsSpyBlocker - Hosts spy rules] | MIT | [Raw][WindowsSpyBlocker - Hosts spy rules.raw] |
 
 ### lite
 
-Arquivo: [`lists/lite.txt`](lists/lite.txt) — 6 fonte(s) ativas, 335625 regras após deduplicação. Atualizado em **2026-07-13**.
+Arquivo: [`lists/lite.txt`](lists/lite.txt) — 6 fonte(s) ativas, 299251 regras após deduplicação. Atualizado em **2026-07-14**.
 
 | Blocklist | Descrição | Homepage | Licença | Raw |
 |---|---|---|---|---|
@@ -156,7 +166,7 @@ Arquivo: [`lists/lite.txt`](lists/lite.txt) — 6 fonte(s) ativas, 335625 regras
 
 ### malware
 
-Arquivo: [`lists/malware.txt`](lists/malware.txt) — 17 fonte(s) ativas, 1959987 regras após deduplicação. Atualizado em **2026-07-13**.
+Arquivo: [`lists/malware.txt`](lists/malware.txt) — 17 fonte(s) ativas, 390936 regras após deduplicação. Atualizado em **2026-07-14**.
 
 | Blocklist | Descrição | Homepage | Licença | Raw |
 |---|---|---|---|---|
@@ -180,7 +190,7 @@ Arquivo: [`lists/malware.txt`](lists/malware.txt) — 17 fonte(s) ativas, 195998
 
 ### phishing
 
-Arquivo: [`lists/phishing.txt`](lists/phishing.txt) — 9 fonte(s) ativas, 280338 regras após deduplicação. Atualizado em **2026-07-13**.
+Arquivo: [`lists/phishing.txt`](lists/phishing.txt) — 9 fonte(s) ativas, 280374 regras após deduplicação. Atualizado em **2026-07-14**.
 
 | Blocklist | Descrição | Homepage | Licença | Raw |
 |---|---|---|---|---|
@@ -196,7 +206,7 @@ Arquivo: [`lists/phishing.txt`](lists/phishing.txt) — 9 fonte(s) ativas, 28033
 
 ### privacy
 
-Arquivo: [`lists/privacy.txt`](lists/privacy.txt) — 8 fonte(s) ativas, 448045 regras após deduplicação. Atualizado em **2026-07-13**.
+Arquivo: [`lists/privacy.txt`](lists/privacy.txt) — 8 fonte(s) ativas, 230653 regras após deduplicação. Atualizado em **2026-07-14**.
 
 | Blocklist | Descrição | Homepage | Licença | Raw |
 |---|---|---|---|---|
@@ -211,7 +221,7 @@ Arquivo: [`lists/privacy.txt`](lists/privacy.txt) — 8 fonte(s) ativas, 448045 
 
 ### social
 
-Arquivo: [`lists/social.txt`](lists/social.txt) — 2 fonte(s) ativas, 457 regras após deduplicação. Atualizado em **2026-07-13**.
+Arquivo: [`lists/social.txt`](lists/social.txt) — 2 fonte(s) ativas, 457 regras após deduplicação. Atualizado em **2026-07-14**.
 
 | Blocklist | Descrição | Homepage | Licença | Raw |
 |---|---|---|---|---|
@@ -220,7 +230,7 @@ Arquivo: [`lists/social.txt`](lists/social.txt) — 2 fonte(s) ativas, 457 regra
 
 ### trackers
 
-Arquivo: [`lists/trackers.txt`](lists/trackers.txt) — 7 fonte(s) ativas, 274509 regras após deduplicação. Atualizado em **2026-07-13**.
+Arquivo: [`lists/trackers.txt`](lists/trackers.txt) — 7 fonte(s) ativas, 240281 regras após deduplicação. Atualizado em **2026-07-14**.
 
 | Blocklist | Descrição | Homepage | Licença | Raw |
 |---|---|---|---|---|
@@ -232,6 +242,10 @@ Arquivo: [`lists/trackers.txt`](lists/trackers.txt) — 7 fonte(s) ativas, 27450
 | HaGeZi's Pro++ Blocklist | HaGeZi Pro++ — mais agressivo que o Pro | [Link][HaGeZi's Pro++ Blocklist] | MIT | [Raw][HaGeZi's Pro++ Blocklist.raw] |
 | HaGeZi's Ultimate Blocklist | HaGeZi Ultimate — o mais agressivo da série HaGeZi | [Link][HaGeZi's Ultimate Blocklist] | MIT | [Raw][HaGeZi's Ultimate Blocklist.raw] |
 
+## ⚠️ Categorias com falha nesta execução
+
+Mantidas as últimas versões publicadas com sucesso: .cms_extra_metadata(erro-compilacao)
+
 ---
 _Gerado automaticamente por `entrypoint.sh` — não editar manualmente, as alterações serão sobrescritas na próxima execução._
 
@@ -241,6 +255,8 @@ _Gerado automaticamente por `entrypoint.sh` — não editar manualmente, as alte
 [AWAvenue Ads Rule]: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 [AdAway Default Blocklist.raw]: https://adguardteam.github.io/HostlistsRegistry/assets/filter_2.txt
 [AdAway Default Blocklist]: https://adaway.org/
+[AdGuard Annoyances Filter.raw]: https://filters.adtidy.org/extension/chromium/filters/14.txt
+[AdGuard Annoyances Filter]: https://kb.adguard.com/en/general/ad-filtering
 [AdGuard DNS filter.raw]: https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt
 [AdGuard DNS filter]: https://github.com/AdguardTeam/AdguardFilters
 [Adaway original.raw]: https://adaway.org/hosts.txt
@@ -256,6 +272,8 @@ _Gerado automaticamente por `entrypoint.sh` — não editar manualmente, as alte
 [Anti-Circumvention Filters]: https://easylist.to/
 [Anti-Malware Blocklists (notrack).raw]: https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
 [Anti-Malware Blocklists (notrack)]: https://gitlab.com/quidsup/notrack-blocklists
+[Anudeep's Adservers.raw]: https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
+[Anudeep's Adservers]: https://github.com/anudeepND/blacklist
 [BLOCK SPOTIFY SERVERS.raw]: https://gist.githubusercontent.com/opus-x/3e673a9d5db2a214df05929a4eee6a57/raw/162f2fe3ba71c010ea195de0feb261561cfd5672/Spotify_Eliminate_Advertisements
 [Badd-Boyz-Hosts.raw]: https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
 [Badd-Boyz-Hosts]: https://github.com/mitchellkrogza/Badd-Boyz-Hosts/
@@ -280,9 +298,12 @@ _Gerado automaticamente por `entrypoint.sh` — não editar manualmente, as alte
 [Fraud block list]: https://github.com/blocklistproject/Lists/
 [GlobalAntiScamOrg-blocklist.raw]: https://raw.githubusercontent.com/elliotwutingfeng/GlobalAntiScamOrg-blocklist/main/global-anti-scam-org-scam-urls-pihole.txt
 [GlobalAntiScamOrg-blocklist]: https://github.com/elliotwutingfeng/GlobalAntiScamOrg-blocklist
+[GoodbyeAds.raw]: https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt
+[GoodbyeAds]: https://github.com/jerryn70/GoodbyeAds
 [HUN: Hufilter.raw]: https://adguardteam.github.io/HostlistsRegistry/assets/filter_35.txt
 [HaGeZi Multi NORMAL.raw]: https://adguardteam.github.io/HostlistsRegistry/assets/filter_34.txt
 [HaGeZi Multi NORMAL]: https://github.com/hagezi/dns-blocklists
+[HaGeZi's Gambling DNS Blocklist.raw]: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/gambling.txt
 [HaGeZi's Pop-Up Ads DNS Blocklist.raw]: https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/popupads.txt
 [HaGeZi's Pop-Up Ads DNS Blocklist]: https://github.com/hagezi/dns-blocklists
 [HaGeZi's Pro Blocklist.raw]: https://adguardteam.github.io/HostlistsRegistry/assets/filter_48.txt
@@ -343,6 +364,7 @@ _Gerado automaticamente por `entrypoint.sh` — não editar manualmente, as alte
 [Steven Black's List]: https://github.com/StevenBlack/hosts
 [StevenBlack/hosts Pi-Hole.raw]: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 [StevenBlack/hosts Pi-Hole]: https://github.com/StevenBlack/hosts
+[StevenBlack/hosts extension gambling.raw]: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-only/hosts
 [TUR: Turkish Ad Hosts.raw]: https://adguardteam.github.io/HostlistsRegistry/assets/filter_40.txt
 [TUR: turk-adlist.raw]: https://adguardteam.github.io/HostlistsRegistry/assets/filter_26.txt
 [The Big List of Hacked Malware Web Sites.raw]: https://adguardteam.github.io/HostlistsRegistry/assets/filter_9.txt
@@ -365,6 +387,8 @@ _Gerado automaticamente por `entrypoint.sh` — não editar manualmente, as alte
 [eth-phishing-detect]: https://github.com/MetaMask/eth-phishing-detect/
 [fanboy-social.raw]: https://easylist.to/easylist/fanboy-social.txt
 [fanboy-social]: https://www.fanboy.co.nz/
+[hBlock.raw]: https://hblock.molinero.dev/hosts
+[hBlock]: https://hblock.molinero.dev/
 [ph00lt0 - Blocklist.raw]: https://raw.githubusercontent.com/ph00lt0/blocklist/master/blocklist.txt
 [ph00lt0 - Blocklist]: https://github.com/ph00lt0/blocklist
 [someonewhocares.org.raw]: https://someonewhocares.org/hosts/zero/hosts
