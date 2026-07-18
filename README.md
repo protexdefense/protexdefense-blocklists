@@ -10,7 +10,7 @@ bem-vindas — abra uma issue ou um pull request.
 
 Fontes sem manutenção ativa ou com taxa significativa de falsos positivos não são incluídas.
 
-Última execução: **2026-07-17** — 8 lista(s) publicada(s) (0 sem nenhuma mudança), 2 falha(s).
+Última execução: **2026-07-18** — 8 lista(s) publicada(s) (0 sem nenhuma mudança), 0 falha(s).
 
 ## Como usar
 
@@ -25,7 +25,7 @@ https://raw.githubusercontent.com/protexdefense/protexdefense-blocklists/main/li
 
 ### ads
 
-Arquivo: [`lists/ads.txt`](lists/ads.txt) — 23 fonte(s) ativas, 444686 regras após deduplicação. Atualizado em **2026-07-17**.
+Arquivo: [`lists/ads.txt`](lists/ads.txt) — 23 fonte(s) ativas, 445396 regras após deduplicação. Atualizado em **2026-07-18**.
 
 | Blocklist | Descrição | Homepage | Licença | Raw |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ Arquivo: [`lists/ads.txt`](lists/ads.txt) — 23 fonte(s) ativas, 444686 regras 
 
 ### full
 
-Arquivo: [`lists/full.txt`](lists/full.txt) — 91 fonte(s) ativas, 3127953 regras após deduplicação. Atualizado em **2026-07-17**.
+Arquivo: [`lists/full.txt`](lists/full.txt) — 91 fonte(s) ativas, 3154900 regras após deduplicação. Atualizado em **2026-07-18**.
 
 | Blocklist | Descrição | Homepage | Licença | Raw |
 |---|---|---|---|---|
@@ -153,7 +153,7 @@ Arquivo: [`lists/full.txt`](lists/full.txt) — 91 fonte(s) ativas, 3127953 regr
 
 ### lite
 
-Arquivo: [`lists/lite.txt`](lists/lite.txt) — 6 fonte(s) ativas, 341126 regras após deduplicação. Atualizado em **2026-07-17**.
+Arquivo: [`lists/lite.txt`](lists/lite.txt) — 6 fonte(s) ativas, 356138 regras após deduplicação. Atualizado em **2026-07-18**.
 
 | Blocklist | Descrição | Homepage | Licença | Raw |
 |---|---|---|---|---|
@@ -166,7 +166,7 @@ Arquivo: [`lists/lite.txt`](lists/lite.txt) — 6 fonte(s) ativas, 341126 regras
 
 ### malware
 
-Arquivo: [`lists/malware.txt`](lists/malware.txt) — 17 fonte(s) ativas, 2282163 regras após deduplicação. Atualizado em **2026-07-17**.
+Arquivo: [`lists/malware.txt`](lists/malware.txt) — 17 fonte(s) ativas, 2305328 regras após deduplicação. Atualizado em **2026-07-18**.
 
 | Blocklist | Descrição | Homepage | Licença | Raw |
 |---|---|---|---|---|
@@ -190,7 +190,7 @@ Arquivo: [`lists/malware.txt`](lists/malware.txt) — 17 fonte(s) ativas, 228216
 
 ### phishing
 
-Arquivo: [`lists/phishing.txt`](lists/phishing.txt) — 9 fonte(s) ativas, 280087 regras após deduplicação. Atualizado em **2026-07-17**.
+Arquivo: [`lists/phishing.txt`](lists/phishing.txt) — 9 fonte(s) ativas, 282510 regras após deduplicação. Atualizado em **2026-07-18**.
 
 | Blocklist | Descrição | Homepage | Licença | Raw |
 |---|---|---|---|---|
@@ -206,7 +206,7 @@ Arquivo: [`lists/phishing.txt`](lists/phishing.txt) — 9 fonte(s) ativas, 28008
 
 ### privacy
 
-Arquivo: [`lists/privacy.txt`](lists/privacy.txt) — 8 fonte(s) ativas, 448064 regras após deduplicação. Atualizado em **2026-07-17**.
+Arquivo: [`lists/privacy.txt`](lists/privacy.txt) — 8 fonte(s) ativas, 448075 regras após deduplicação. Atualizado em **2026-07-18**.
 
 | Blocklist | Descrição | Homepage | Licença | Raw |
 |---|---|---|---|---|
@@ -221,7 +221,7 @@ Arquivo: [`lists/privacy.txt`](lists/privacy.txt) — 8 fonte(s) ativas, 448064 
 
 ### social
 
-Arquivo: [`lists/social.txt`](lists/social.txt) — 2 fonte(s) ativas, 457 regras após deduplicação. Atualizado em **2026-07-17**.
+Arquivo: [`lists/social.txt`](lists/social.txt) — 2 fonte(s) ativas, 457 regras após deduplicação. Atualizado em **2026-07-18**.
 
 | Blocklist | Descrição | Homepage | Licença | Raw |
 |---|---|---|---|---|
@@ -230,7 +230,7 @@ Arquivo: [`lists/social.txt`](lists/social.txt) — 2 fonte(s) ativas, 457 regra
 
 ### trackers
 
-Arquivo: [`lists/trackers.txt`](lists/trackers.txt) — 7 fonte(s) ativas, 280892 regras após deduplicação. Atualizado em **2026-07-17**.
+Arquivo: [`lists/trackers.txt`](lists/trackers.txt) — 7 fonte(s) ativas, 296260 regras após deduplicação. Atualizado em **2026-07-18**.
 
 | Blocklist | Descrição | Homepage | Licença | Raw |
 |---|---|---|---|---|
@@ -241,10 +241,6 @@ Arquivo: [`lists/trackers.txt`](lists/trackers.txt) — 7 fonte(s) ativas, 28089
 | HaGeZi Multi NORMAL | HaGeZi Multi NORMAL — combinação de ads/tracking/malware | [Link][HaGeZi Multi NORMAL] | MIT | [Raw][HaGeZi Multi NORMAL.raw] |
 | HaGeZi's Pro++ Blocklist | HaGeZi Pro++ — mais agressivo que o Pro | [Link][HaGeZi's Pro++ Blocklist] | MIT | [Raw][HaGeZi's Pro++ Blocklist.raw] |
 | HaGeZi's Ultimate Blocklist | HaGeZi Ultimate — o mais agressivo da série HaGeZi | [Link][HaGeZi's Ultimate Blocklist] | MIT | [Raw][HaGeZi's Ultimate Blocklist.raw] |
-
-## ⚠️ Categorias com falha nesta execução
-
-Mantidas as últimas versões publicadas com sucesso: .cms_extra_metadata(erro-compilacao) .cms_link_status(erro-compilacao)
 
 ---
 _Gerado automaticamente por `entrypoint.sh` — não editar manualmente, as alterações serão sobrescritas na próxima execução._
