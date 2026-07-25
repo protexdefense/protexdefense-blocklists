@@ -4,7 +4,7 @@
 ! Version: 1.0.0
 ! Homepage: https://github.com/protexdefense/protexdefense-blocklists/
 ! License: Mixed
-! Last modified: 2026-07-24T03:55:11.821Z
+! Last modified: 2026-07-25T03:55:50.459Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -426381,7 +426381,6 @@
 ||funnelserv.systems^
 ||funoverbored.com^
 ||funoverflow.com^
-||funtoyplanet.com^
 ||furlhp.kango.mynavi.jp^
 ||furnituredl.istaging.co^
 ||furryfork.com^
@@ -427189,6 +427188,7 @@
 ||historicalbeam.com^
 ||historytrade.com^
 ||hitachi-hightech-as.actonservice.com^
+||hitboxdesigns.com^
 ||hit.cnbce.com^
 ||hit.interia.pl^
 ||hitmse.altinbas.com^
@@ -428599,6 +428599,7 @@
 ||kzsicw.cinema.de^
 ||kzsisc.3.dk^
 ||kzutbh.takeappeal.com^
+||labelsensor.com^
 ||laboredlocket.com^
 ||lab.prodesp.sp.gov.br^
 ||lackadaisicalkite.com^
@@ -428625,6 +428626,7 @@
 ||landkarts.com^
 ||landlordspy.com^
 ||landstar.actonservice.com^
+||landsuites.com^
 ||landwestern.com^
 ||lantern.connect.o2.co.uk^
 ||lapkhy.aventon.com^
@@ -429216,6 +429218,7 @@
 ||longloops.com^
 ||loobmf.hardloop.fr^
 ||loopcybersec.com^
+||looprecycled.com^
 ||loosecase.com^
 ||looseloaf.com^
 ||lord.actonservice.com^
@@ -430332,6 +430335,7 @@
 ||memorizeneck.com^
 ||m.enerpac.com^
 ||mennoc.mezlan.com^
+||menteechain.com^
 ||mentorsticks.com^
 ||merchant-app.th3rdwave.coffee^
 ||merchant.libertycarz.com^
@@ -431803,6 +431807,7 @@
 ||onelinksmartscript.appsflyersdk.com^
 ||onelink.taptalk.io^
 ||onem.marketing.onemarketinguxp.com^
+||onemorebump.com^
 ||onespecify.com^
 ||onespot-tracking.herokuapp.com^
 ||onioncomic.com^
@@ -431823,6 +431828,7 @@
 ||onlineshop.ricoh.pl^
 ||online.siteboosters.de^
 ||onlinestarten.net^
+||onlystreets.com^
 ||onlywoofs.com^
 ||onsitestats.bluecore.com^
 ||ontxgr.hofer-reisen.at^
@@ -434803,6 +434809,7 @@
 ||socialflow.branch.rocks^
 ||social.forddirectdealers.com^
 ||social.insidelpl.com^
+||socialsend.net^
 ||social.talenttitan.com^
 ||sockpacks.com^
 ||socs.hagerty.com^
