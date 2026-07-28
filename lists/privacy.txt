@@ -4,7 +4,7 @@
 ! Version: 1.0.0
 ! Homepage: https://github.com/protexdefense/protexdefense-blocklists/
 ! License: Mixed
-! Last modified: 2026-07-27T03:56:48.089Z
+! Last modified: 2026-07-28T03:59:40.096Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -421619,6 +421619,7 @@
 ||acv.kyushu-internet.com^
 ||acv.mc-doctor.net^
 ||acv.mc-pharma.net^
+||acv.mira-dsp.com^
 ||acv.next-internet.info^
 ||acv.nft-hikari.net^
 ||acv.xn--lck7b0fy49k9y1b.com^
@@ -421876,6 +421877,7 @@
 ||alliedfundingcorp.actonservice.com^
 ||allnewhost.com^
 ||alloutdubstep.com^
+||alloy-rap.reclameaqui.com.br^
 ||alloytitans.com^
 ||alloy-web.zvuk.com^
 ||allreach.actonservice.com^
@@ -422976,6 +422978,7 @@
 ||berserkhydrant.com^
 ||bersondeanstevens.actonservice.com^
 ||bestboundary.com^
+||bestclimbers.net^
 ||bestinfo.bluetrustloans.com^
 ||bestshoesboot.com^
 ||betazebra.com^
@@ -426115,6 +426118,7 @@
 ||financialeducation-info.uchicago.edu^
 ||financialservices.nada.org^
 ||financialservices.teranet.ca^
+||findcalculator.com^
 ||findyourdelight.com^
 ||fingerprinter-production.herokuapp.com^
 ||finley.fecinc.com^
@@ -431629,6 +431633,7 @@
 ||observer.ip-label.net^
 ||obs.esnlocco.com^
 ||obseu.netgreencolumn.com^
+||obs.greencolumnblog.com^
 ||obsidiangems.com^
 ||obs.jollyoutdoorjogger.com^
 ||obs.system1onesource.com^
@@ -432284,6 +432289,7 @@
 ||play.colorplay.fun^
 ||playerhappy.com^
 ||player-metrics.instaread.co^
+||playerscache.com^
 ||playfulriver.com^
 ||play.goldplay.me^
 ||play.jdb888.club^
@@ -432491,6 +432497,7 @@
 ||protechts.net^
 ||protectpool.com^
 ||protestcopy.com^
+||provingmagic.com^
 ||prowareness.actonservice.com^
 ||proxima.midjourney.com^
 ||proxy.dzeio.com^
@@ -432751,6 +432758,7 @@
 ||r2r.utas.edu.au^
 ||r.3hentai.net^
 ||r42tag.com^
+||rabbitboots.com^
 ||rabbitbreath.com^
 ||rabbit.donald.cat^
 ||rabbitrifle.com^
@@ -433848,6 +433856,7 @@
 ||signup.vovici.com^
 ||silentcredit.com^
 ||silentjackal.com^
+||silentsingle.com^
 ||siliconslow.com^
 ||sillyscrew.com^
 ||simetra.tracking.ringieraxelspringer.tech^
@@ -434756,6 +434765,7 @@
 ||smon.copyright.gov^
 ||smqzbr.proozy.com^
 ||smrt.as^
+||smrtwheel.com^
 ||sms.3.se^
 ||sms.ajopharmabeta.riteaid.com^
 ||sms.apac.coca-cola.com^
@@ -435527,6 +435537,7 @@
 ||stats.oyster.com^
 ||stats.ozwebsites.biz^
 ||stats.pacificdentalservices.com^
+||stats.panet.com^
 ||stats.parqet.com^
 ||stats.parrot.dev^
 ||stats.patriot.win^
@@ -436873,6 +436884,7 @@
 ||tracking.americaneagle.com^
 ||tracking-api.bookzone.ro^
 ||tracking-api.mangopulse.net^
+||tracking-api.razor.media^
 ||tracking.arabiancentres.com^
 ||tracking.arcadis.com^
 ||tracking.asialadies.de^
