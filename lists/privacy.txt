@@ -4,7 +4,7 @@
 ! Version: 1.0.0
 ! Homepage: https://github.com/protexdefense/protexdefense-blocklists/
 ! License: Mixed
-! Last modified: 2026-07-29T03:58:02.880Z
+! Last modified: 2026-07-30T03:59:43.024Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -421836,6 +421836,7 @@
 ||ainu.intel.pl^
 ||aircuity.actonservice.com^
 ||airplanecoffee.com^
+||aisiteanalytics.com^
 ||a.itsmore.cn^
 ||aivali.openapp.link^
 ||ajgkdt.eazy.de^
@@ -422232,6 +422233,7 @@
 ||analytics.vanillaforums.com^
 ||analytics.vdo.ai^
 ||analytics.vendemore.com^
+||analytics.veygo.co^
 ||analytics.vgtimes.com^
 ||analytics.vinovo.si^
 ||analytics.visible.com^
@@ -423410,6 +423412,7 @@
 ||care.universityhealth.com^
 ||cargdk.bakerross.co.uk^
 ||carloforward.com^
+||carpoolmatch.com^
 ||carpoolqueen.com^
 ||carsarace.com^
 ||c.arstechnica.com^
@@ -423776,7 +423779,6 @@
 ||collectfront.nector.io^
 ||collect.helsana-preprod.ch^
 ||collect.igodigital.com^
-||collection.e-satisfaction.com^
 ||collection.mola.tv^
 ||collect.iteam-dress.com^
 ||collect.klove.com^
@@ -426188,6 +426190,7 @@
 ||flushingbeast.com^
 ||flutteringfireman.com^
 ||fly.caljetelite.com^
+||flyflightstar.com^
 ||flystranger.com^
 ||fmbankva.actonservice.com^
 ||fmjgtp.dentalspeed.com^
@@ -426212,6 +426215,7 @@
 ||foodfunfestivals.com^
 ||foodsouvlakibar.openapp.link^
 ||foomjy.teacollection.com^
+||footballmedal.com^
 ||forbes.realclearpolitics.com^
 ||forbidden.actonservice.com^
 ||forbin.actonservice.com^
@@ -426658,6 +426662,7 @@
 ||global-guardians.actonservice.com^
 ||globalmed.actonservice.com^
 ||global-mktg.transunion.com^
+||globalorders.net^
 ||global.raboag.com^
 ||global.successfactors.com^
 ||global.zenprise.com^
@@ -426701,6 +426706,7 @@
 ||go.anifox.net^
 ||go.asian.mingle.com^
 ||go.askbee.my^
+||goatcounter.ssp.sh^
 ||goat.hepicgamerz.com^
 ||goat.nhimmeo.cf^
 ||goat.skeetstats.xyz^
@@ -426843,6 +426849,7 @@
 ||go.news.loyaltycompany.com^
 ||go.ngtvalves.com^
 ||go.northsidemedia.com^
+||goodfoodtours.com^
 ||google-analytics-cn.com^
 ||googleoptimize-cn.com^
 ||googleoptimize.com^
@@ -431143,6 +431150,7 @@
 ||mm.openapp.link^
 ||mm-sdk-analytics.api.cx.metamask.io^
 ||mmulsx.comet.it^
+||mm-uxrv.com^
 ||m.mywd.com^
 ||mnbvpo8trk.com^
 ||mnfqyj.corello.com.br^
@@ -431398,6 +431406,7 @@
 ||net.mydays.ch^
 ||net.shop.com.mm^
 ||netstat.yunnan.cn^
+||netsurfconsult.com^
 ||net.tradeers.de^
 ||net.voopter.com.br^
 ||network.cogentco.com^
@@ -431484,6 +431493,7 @@
 ||nlbukc.babyworld.se^
 ||n.lexusfinancial.com^
 ||nl-go.experian.com^
+||nltcs.idfnet.net^
 ||nltzqx.autodoc.co.uk^
 ||nlvnht.miror.jp^
 ||nlytcs.idfnet.net^
@@ -431671,6 +431681,7 @@
 ||offer.slgnt.eu^
 ||offers.storagepipe.com^
 ||offgridcrops.com^
+||officestylist.com^
 ||offshoreassets.com^
 ||offshorecyclone.com^
 ||offshoregeology.com^
@@ -432210,6 +432221,7 @@
 ||pixel.mtrcs.samba.tv^
 ||pixel.newscred.com^
 ||pixel.nine.com.au^
+||pixel.nudgify.com^
 ||pixel.patch.com^
 ||pixel.poptok.com^
 ||pixel.pub.lilyai.net^
@@ -432335,6 +432347,7 @@
 ||pnvnpy.scullyandscully.com^
 ||pny.net.penny.de^
 ||pocketfaucet.com^
+||pocustrack.com^
 ||poczta.carte-gr.total.fr^
 ||podbooth.martela.no^
 ||podname.com^
