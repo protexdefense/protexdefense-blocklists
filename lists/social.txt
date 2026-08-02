@@ -4,7 +4,7 @@
 ! Version: 1.0.0
 ! Homepage: https://github.com/protexdefense/protexdefense-blocklists/
 ! License: Mixed
-! Last modified: 2026-08-01T04:23:57.284Z
+! Last modified: 2026-08-02T04:00:57.581Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !

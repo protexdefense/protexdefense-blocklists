@@ -4,7 +4,7 @@
 ! Version: 1.0.0
 ! Homepage: https://github.com/protexdefense/protexdefense-blocklists/
 ! License: Mixed
-! Last modified: 2026-07-31T04:00:28.272Z
+! Last modified: 2026-08-02T04:00:56.213Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -421535,6 +421535,7 @@
 ||aboardlevel.com^
 ||ab.oney.es^
 ||a.boredpanda.bio^
+||aboutcorgis.com^
 ||abovechat.com^
 ||abpwqf.lolaflora.com.mx^
 ||absentairport.com^
@@ -421887,6 +421888,7 @@
 ||allthelogs.com^
 ||alltypo.com^
 ||alluringbucket.com^
+||allycoop.com^
 ||almalasers.actonservice.com^
 ||almondbuns.com^
 ||al.mtrx.dev^
@@ -422215,6 +422217,7 @@
 ||analytics.strangeloopnetworks.com^
 ||analytics.superstation.com^
 ||analytics.supplyframe.com^
+||analytics.tempy.email^
 ||analytics.themarketiq.com^
 ||analytics.threedeepmarketing.com^
 ||analytics.ticimax.cloud^
@@ -424174,6 +424177,7 @@
 ||ct.pinterest.com^
 ||ctr-iwb.nmg.de^
 ||ctrkd.ilsole24ore.com^
+||c.trkn.it^
 ||ctr-opc.nmg.de^
 ||ctr.po-kaki-to.com^
 ||cttest.branch.rocks^
@@ -425719,6 +425723,7 @@
 ||epicoldschool.com^
 ||epicswimming.com^
 ||epimetheus.navigator.web.de^
+||ep.jamx.ai^
 ||epnfoq.cyberpowersystem.co.uk^
 ||epoisejobs.epoise.com^
 ||e.pomonaelectronics.com^
@@ -427275,6 +427280,7 @@
 ||homeslick.com^
 ||honestharbor.com^
 ||honeybulb.com^
+||honeybutterbliss.com^
 ||honorablehydrant.com^
 ||hoojts.demmelhuber.net^
 ||hookconference.com^
@@ -431717,6 +431723,7 @@
 ||okhwxl.rnainc.jp^
 ||oksiqv.styletread.com.au^
 ||okto1.spsglobal.com^
+||ol-collector.quillbot.com^
 ||oldfashionedoffer.com^
 ||oldportcoffee.com^
 ||olklgn.jh-profishop.de^
@@ -432368,6 +432375,7 @@
 ||ponos.zeronaught.com^
 ||poolcushions.com^
 ||pool.onjoyride.com^
+||poolprochem.com^
 ||pop3.carte-gr.total.fr^
 ||pop.carte-gr.total.fr^
 ||popliquids.com^
@@ -433457,6 +433465,7 @@
 ||schinnerer.actonservice.com^
 ||scholarloop.com^
 ||sc.holtsmilitarybank.co.uk^
+||schoolpaws.com^
 ||schwaebischhall.efscle.com^
 ||science.ctf.gg^
 ||sciencedart.com^
@@ -433890,6 +433899,7 @@
 ||simpletopay.americanexpress.com^
 ||simpletopay.americanexpress.com.au^
 ||simpletopay.americanexpress.co.uk^
+||simplyradon.com^
 ||simulateswing.com^
 ||sincerebuffalo.com^
 ||sincerepelican.com^
@@ -434846,6 +434856,7 @@
 ||soilphotos.com^
 ||sokutei.car2828.jp^
 ||solarislabyrinth.com^
+||solarrecharge.net^
 ||solar.sharpmarketing.eu^
 ||solar.sunpower.com^
 ||soleblinds.com^
@@ -435041,6 +435052,7 @@
 ||sp.dpgmedia.net^
 ||spea.eko.com^
 ||specialscissors.com^
+||specialtypin.com^
 ||sp.ecosia.org^
 ||spec-sensors.actonservice.com^
 ||spectacularstamp.com^
@@ -435048,6 +435060,7 @@
 ||speedtrap.shopdirect.com^
 ||speedyfox.io^
 ||speedyrhino.co^
+||speedysteaks.com^
 ||spellingthoughts.com^
 ||spellknight.com^
 ||spellmist.com^
