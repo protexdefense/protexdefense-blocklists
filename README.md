@@ -3,7 +3,7 @@
 Listas de bloqueio compiladas automaticamente com [HostlistCompiler](https://github.com/AdguardTeam/HostlistCompiler),
 com cache HTTP condicional por fonte (ETag/Last-Modified) — cada fonte só é rebaixada quando o servidor de origem confirma que mudou.
 
-Última execução: **2026-08-20** — 6 lista(s) publicada(s) (6 sem nenhuma mudança), 2 falha(s).
+Última execução: **2026-08-20** — 7 lista(s) publicada(s) (6 sem nenhuma mudança), 1 falha(s).
 
 ## Como usar
 
@@ -13,6 +13,32 @@ como URL de blocklist no AdGuard Home, Pi-hole, etc:
 ```
 https://raw.githubusercontent.com/protexdefense/protexdefense-blocklists/main/lists/<categoria>.txt
 ```
+
+## ads
+
+Arquivo: [`lists/ads.txt`](lists/ads.txt) — 19 fonte(s) ativas, 203639 regras após deduplicação. Atualizado em **2026-08-20**.
+
+| Blocklist | Descrição | Homepage | Licença | Raw |
+|---|---|---|---|---|
+| AdGuard DNS filter | Filtro combinado da AdGuard para bloqueio via DNS | https://github.com/AdguardTeam/AdguardFilters | GPLv3 | https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt |
+| AdAway Default Blocklist | Blocklist padrão distribuída com o AdAway | https://adaway.org/ | CC BY 3.0 | https://adguardteam.github.io/HostlistsRegistry/assets/filter_2.txt |
+| AWAvenue Ads Rule | AWAvenue Ads Rule — foco em apps/sites chineses | https://github.com/TG-Twilight/AWAvenue-Ads-Rule | GPLv3 | https://adguardteam.github.io/HostlistsRegistry/assets/filter_53.txt |
+| Dan Pollock's List | Lista hosts de Dan Pollock (someonewhocares.org) | https://someonewhocares.org/hosts/ | Uso pessoal livre | https://adguardteam.github.io/HostlistsRegistry/assets/filter_4.txt |
+| Peter Lowe's Blocklist | Blocklist de servidores de anúncios mantida desde os anos 2000 | https://pgl.yoyo.org/adservers/ | CC BY-SA 4.0 | https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt |
+| Dandelion Sprout's Game Console Adblock List | Bloqueio de anúncios em consoles de videogame | https://github.com/DandelionSprout/adfilt | Dandelicence v1.4 | https://adguardteam.github.io/HostlistsRegistry/assets/filter_6.txt |
+| HaGeZi's Pop-Up Ads DNS Blocklist | HaGeZi Pop-Up Ads DNS Blocklist | https://github.com/hagezi/dns-blocklists | MIT | https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/popupads.txt |
+| uBlock filters (2024) | Filtros gerais do uBlock Origin (safra 2024) | https://github.com/uBlockOrigin/uAssets | GPLv3 | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2024.txt |
+| uBlock filters – Mobile | Filtros do uBlock Origin específicos para mobile | https://github.com/uBlockOrigin/uAssets | GPLv3 | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-mobile.txt |
+| uBlockOrigin filters.txt | Filtros gerais do uBlock Origin | https://github.com/uBlockOrigin/uAssets | GPLv3 | https://raw.githubusercontent.com/uBlockOrigin/uAssets/refs/heads/master/filters/filters.txt |
+| uBlockOrigin quick-fixes | Correções rápidas do uBlock Origin | https://github.com/uBlockOrigin/uAssets | GPLv3 | https://raw.githubusercontent.com/uBlockOrigin/uAssets/refs/heads/master/filters/quick-fixes.txt |
+| Adblock Plus - Unusual Ads | - | - | - | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AdRemovalListForUnusualAds.txt |
+| EasyList Portuguese + EasyList | EasyList + EasyList Portuguese combinados | https://easylist.to/ | GPLv3 | https://easylist-downloads.adblockplus.org/easylistportuguese+easylist.txt |
+| Anti-Circumvention Filters | Filtros anti-circunvenção de bloqueadores de anúncio | https://easylist.to/ | GPLv3 | https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt |
+| Adblock Plus (Anti-Adblock) | Filtros contra avisos de 'desative seu adblock' | https://easylist.to/ | GPLv3 | https://easylist-downloads.adblockplus.org/antiadblockfilters.txt |
+| MobileFilter | Regras específicas para apps mobile | https://github.com/AdguardTeam/AdguardFilters | GPLv3 | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/specific_app.txt |
+| someonewhocares.org | Lista hosts de Dan Pollock | https://someonewhocares.org/hosts/ | Uso pessoal livre | https://someonewhocares.org/hosts/zero/hosts |
+| Adaway original | Blocklist padrão distribuída com o AdAway | https://adaway.org/ | CC BY 3.0 | https://adaway.org/hosts.txt |
+| BLOCK SPOTIFY SERVERS | Bloqueio de servidores de anúncio do Spotify | - | - | https://gist.githubusercontent.com/opus-x/3e673a9d5db2a214df05929a4eee6a57/raw/162f2fe3ba71c010ea195de0feb261561cfd5672/Spotify_Eliminate_Advertisements |
 
 ## lite
 
@@ -53,7 +79,7 @@ Arquivo: [`lists/malware.txt`](lists/malware.txt) — 17 fonte(s) ativas, 213860
 
 ## phishing
 
-Arquivo: [`lists/phishing.txt`](lists/phishing.txt) — 9 fonte(s) ativas, 293672 regras após deduplicação. Atualizado em **2026-08-20**.
+Arquivo: [`lists/phishing.txt`](lists/phishing.txt) — 9 fonte(s) ativas, 295195 regras após deduplicação. Atualizado em **2026-08-20**.
 
 | Blocklist | Descrição | Homepage | Licença | Raw |
 |---|---|---|---|---|
@@ -107,7 +133,7 @@ Arquivo: [`lists/trackers.txt`](lists/trackers.txt) — 7 fonte(s) ativas, 26309
 
 ## ⚠️ Categorias com falha nesta execução
 
-Mantidas as últimas versões publicadas com sucesso: ads(erro-compilacao) full(erro-compilacao)
+Mantidas as últimas versões publicadas com sucesso: full(erro-compilacao)
 
 ---
 _Gerado automaticamente por `entrypoint.sh` — não editar manualmente, as alterações serão sobrescritas na próxima execução._
