@@ -3,7 +3,7 @@
 Listas de bloqueio compiladas automaticamente com [HostlistCompiler](https://github.com/AdguardTeam/HostlistCompiler),
 com cache HTTP condicional por fonte (ETag/Last-Modified) — cada fonte só é rebaixada quando o servidor de origem confirma que mudou.
 
-Última execução: **2026-08-28** — 6 lista(s) publicada(s) (6 sem nenhuma mudança), 2 falha(s).
+Última execução: **2026-08-28** — 6 lista(s) publicada(s) (4 sem nenhuma mudança), 2 falha(s).
 
 ## Como usar
 
@@ -29,7 +29,7 @@ Arquivo: [`lists/lite.txt`](lists/lite.txt) — 6 fonte(s) ativas, 314652 regras
 
 ## malware
 
-Arquivo: [`lists/malware.txt`](lists/malware.txt) — 17 fonte(s) ativas, 2138604 regras após deduplicação. Atualizado em **2026-08-28**.
+Arquivo: [`lists/malware.txt`](lists/malware.txt) — 17 fonte(s) ativas, 2280351 regras após deduplicação. Atualizado em **2026-08-28**.
 
 | Blocklist | Descrição | Homepage | Licença | Raw |
 |---|---|---|---|---|
