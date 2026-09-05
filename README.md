@@ -3,7 +3,7 @@
 Listas de bloqueio compiladas automaticamente com [HostlistCompiler](https://github.com/AdguardTeam/HostlistCompiler),
 com cache HTTP condicional por fonte (ETag/Last-Modified) — cada fonte só é rebaixada quando o servidor de origem confirma que mudou.
 
-Última execução: **2026-09-05** — 6 lista(s) publicada(s) (5 sem nenhuma mudança), 2 falha(s).
+Última execução: **2026-09-05** — 6 lista(s) publicada(s) (6 sem nenhuma mudança), 2 falha(s).
 
 ## Como usar
 
