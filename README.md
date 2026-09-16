@@ -3,7 +3,7 @@
 Listas de bloqueio compiladas automaticamente com [HostlistCompiler](https://github.com/AdguardTeam/HostlistCompiler),
 com cache HTTP condicional por fonte (ETag/Last-Modified) — cada fonte só é rebaixada quando o servidor de origem confirma que mudou.
 
-Última execução: **2026-09-15** — 5 lista(s) publicada(s) (3 sem nenhuma mudança), 3 falha(s).
+Última execução: **2026-09-16** — 6 lista(s) publicada(s) (6 sem nenhuma mudança), 2 falha(s).
 
 ## Como usar
 
@@ -16,7 +16,7 @@ https://raw.githubusercontent.com/protexdefense/protexdefense-blocklists/main/li
 
 ## lite
 
-Arquivo: [`lists/lite.txt`](lists/lite.txt) — 6 fonte(s) ativas, 314652 regras após deduplicação. Atualizado em **2026-09-15**.
+Arquivo: [`lists/lite.txt`](lists/lite.txt) — 6 fonte(s) ativas, 314652 regras após deduplicação. Atualizado em **2026-09-16**.
 
 | Blocklist | Descrição | Homepage | Licença | Raw |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ Arquivo: [`lists/lite.txt`](lists/lite.txt) — 6 fonte(s) ativas, 314652 regras
 
 ## malware
 
-Arquivo: [`lists/malware.txt`](lists/malware.txt) — 17 fonte(s) ativas, 2486020 regras após deduplicação. Atualizado em **2026-09-15**.
+Arquivo: [`lists/malware.txt`](lists/malware.txt) — 17 fonte(s) ativas, 2486020 regras após deduplicação. Atualizado em **2026-09-16**.
 
 | Blocklist | Descrição | Homepage | Licença | Raw |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ Arquivo: [`lists/malware.txt`](lists/malware.txt) — 17 fonte(s) ativas, 248602
 
 ## phishing
 
-Arquivo: [`lists/phishing.txt`](lists/phishing.txt) — 9 fonte(s) ativas, 294169 regras após deduplicação. Atualizado em **2026-09-15**.
+Arquivo: [`lists/phishing.txt`](lists/phishing.txt) — 9 fonte(s) ativas, 294169 regras após deduplicação. Atualizado em **2026-09-16**.
 
 | Blocklist | Descrição | Homepage | Licença | Raw |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ Arquivo: [`lists/phishing.txt`](lists/phishing.txt) — 9 fonte(s) ativas, 29416
 
 ## privacy
 
-Arquivo: [`lists/privacy.txt`](lists/privacy.txt) — 8 fonte(s) ativas, 448191 regras após deduplicação. Atualizado em **2026-09-15**.
+Arquivo: [`lists/privacy.txt`](lists/privacy.txt) — 8 fonte(s) ativas, 448191 regras após deduplicação. Atualizado em **2026-09-16**.
 
 | Blocklist | Descrição | Homepage | Licença | Raw |
 |---|---|---|---|---|
@@ -84,16 +84,30 @@ Arquivo: [`lists/privacy.txt`](lists/privacy.txt) — 8 fonte(s) ativas, 448191 
 
 ## social
 
-Arquivo: [`lists/social.txt`](lists/social.txt) — 2 fonte(s) ativas, 457 regras após deduplicação. Atualizado em **2026-09-15**.
+Arquivo: [`lists/social.txt`](lists/social.txt) — 2 fonte(s) ativas, 457 regras após deduplicação. Atualizado em **2026-09-16**.
 
 | Blocklist | Descrição | Homepage | Licença | Raw |
 |---|---|---|---|---|
 | fanboy-social | Bloqueio de widgets de redes sociais (Fanboy) | https://www.fanboy.co.nz/ | GPLv3 | https://easylist.to/easylist/fanboy-social.txt |
 | BLOCK SPOTIFY SERVERS | Bloqueio de servidores de anúncio do Spotify | - | - | https://gist.githubusercontent.com/opus-x/3e673a9d5db2a214df05929a4eee6a57/raw/162f2fe3ba71c010ea195de0feb261561cfd5672/Spotify_Eliminate_Advertisements |
 
+## trackers
+
+Arquivo: [`lists/trackers.txt`](lists/trackers.txt) — 7 fonte(s) ativas, 263096 regras após deduplicação. Atualizado em **2026-09-16**.
+
+| Blocklist | Descrição | Homepage | Licença | Raw |
+|---|---|---|---|---|
+| NoCoin Filter List | Bloqueio de mineração de criptomoedas via navegador | https://github.com/hoshsadiq/adblock-nocoin-list | MIT | https://adguardteam.github.io/HostlistsRegistry/assets/filter_8.txt |
+| uBlock filters – Cookie Notices | Avisos de cookies (annoyances) do uBlock Origin | https://github.com/uBlockOrigin/uAssets | GPLv3 | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances-cookies.txt |
+| Fanboy Cookiemonster | Bloqueio de avisos de cookies (Fanboy) | https://www.fanboy.co.nz/ | GPLv3 | https://secure.fanboy.co.nz/fanboy-cookiemonster.txt |
+| Fanboy Annoyance | Bloqueio de pop-ups e elementos irritantes (Fanboy) | https://www.fanboy.co.nz/ | GPLv3 | https://secure.fanboy.co.nz/fanboy-annoyance.txt |
+| HaGeZi Multi NORMAL | HaGeZi Multi NORMAL — combinação de ads/tracking/malware | https://github.com/hagezi/dns-blocklists | MIT | https://adguardteam.github.io/HostlistsRegistry/assets/filter_34.txt |
+| HaGeZi's Pro++ Blocklist | HaGeZi Pro++ — mais agressivo que o Pro | https://github.com/hagezi/dns-blocklists | MIT | https://adguardteam.github.io/HostlistsRegistry/assets/filter_51.txt |
+| HaGeZi's Ultimate Blocklist | HaGeZi Ultimate — o mais agressivo da série HaGeZi | https://github.com/hagezi/dns-blocklists | MIT | https://adguardteam.github.io/HostlistsRegistry/assets/filter_49.txt |
+
 ## ⚠️ Categorias com falha nesta execução
 
-Mantidas as últimas versões publicadas com sucesso: ads(erro-compilacao) full(erro-compilacao) trackers(erro-compilacao)
+Mantidas as últimas versões publicadas com sucesso: ads(erro-compilacao) full(erro-compilacao)
 
 ---
 _Gerado automaticamente por `entrypoint.sh` — não editar manualmente, as alterações serão sobrescritas na próxima execução._
