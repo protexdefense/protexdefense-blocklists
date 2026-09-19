@@ -29,7 +29,7 @@ Arquivo: [`lists/lite.txt`](lists/lite.txt) — 6 fonte(s) ativas, 314652 regras
 
 ## malware
 
-Arquivo: [`lists/malware.txt`](lists/malware.txt) — 17 fonte(s) ativas, 2681868 regras após deduplicação. Atualizado em **2026-09-19**.
+Arquivo: [`lists/malware.txt`](lists/malware.txt) — 17 fonte(s) ativas, 2681850 regras após deduplicação. Atualizado em **2026-09-19**.
 
 | Blocklist | Descrição | Homepage | Licença | Raw |
 |---|---|---|---|---|
