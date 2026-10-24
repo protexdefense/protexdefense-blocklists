@@ -4,7 +4,7 @@
 ! Version: 1.0.0
 ! Homepage: https://github.com/protexdefense/adguard-all-list/
 ! License: Mixed
-! Last modified: 2026-10-16T03:02:02.883Z
+! Last modified: 2026-10-24T15:17:23.620Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -385,6 +385,7 @@
 ||api.ogymogy.com^
 ||api.seniorsafetyapp.com^
 ||api.spylix.com^
+||api.stalkerware.app^
 ||api.trackview.lifecircle.app^
 ||api007.foxspy.com.br^
 ||apidemo.spylix.com^
@@ -241685,7 +241686,6 @@
 ||ncstorms.com^
 ||ncsu.org.ng^
 ||ncsysw.com^
-||nct1.logging.nextsmarty.com^
 ||nct2-logging.nct.vn^
 ||nctc.go.kr^
 ||ncth-tw.com^
@@ -422987,6 +422987,7 @@
 ||beacon.adelphic.com^
 ||beacon.affil.walmart.com^
 ||beacon.cdnma.com^
+||beacon.cdnpure.com^
 ||beacon.cdn.qq.com^
 ||beaconcdn.qq.com^
 ||beacon.coofis.com^
@@ -423004,6 +423005,7 @@
 ||beacon.sina.com.cn^
 ||beacon.s.llnwi.net^
 ||beacons.mediamelon.com^
+||beacon.viafoura.io^
 ||beacon.webpresence.work^
 ||beafdf.restaupro.com^
 ||beagle.prod.tda.link^
@@ -423573,6 +423575,7 @@
 ||cdnwidget.com^
 ||cdp.howtotrade.com^
 ||cdtm.cdiscount.com^
+||cedarkits.com^
 ||ceggfe.msc-kreuzfahrten.de^
 ||celestialeuphony.com^
 ||celestialquasar.com^
@@ -423694,6 +423697,7 @@
 ||claycandle.com^
 ||claynelsonlifebalance.actonservice.com^
 ||clck.dzen.ru^
+||clcksrv.com^
 ||cleanhaircut.com^
 ||cleanservices.actonservice.com^
 ||clearbitscripts.com^
@@ -425348,6 +425352,7 @@
 ||driedwheat.com^
 ||driftingchef.com^
 ||driftpizza.com^
+||drivenmove.com^
 ||driver.dctaxi.com^
 ||droidwiz.com^
 ||drollwharf.com^
@@ -425442,6 +425447,7 @@
 ||ea.sadyr.es^
 ||eastcapelots.com^
 ||eastern2.secureforms.mcafee.com^
+||eastpalms.com^
 ||easysecurity.net^
 ||easysyncnews.com^
 ||eatinglate.com^
@@ -426100,6 +426106,7 @@
 ||execgroup.convio.com^
 ||executeknowledge.com^
 ||execution-ci360.rai.it^
+||exfdg.com^
 ||exhibit.coteriefashionevents.com^
 ||exhibit.firex.co.uk^
 ||exhibit.kbb.co.uk^
@@ -426136,7 +426143,9 @@
 ||external.fpbc1-1.fna.fbcdn.net.iberostar.com^
 ||external-tag.mysquadbeyond.com^
 ||extmaps-api.yandex.net^
+||extracover.net^
 ||extractobservation.com^
+||extraliner.com^
 ||extralocker.com^
 ||extramonies.com^
 ||exuberantedge.com^
@@ -426193,6 +426202,7 @@
 ||fancydune.com^
 ||fangfeeling.com^
 ||fanless.net^
+||fanpapers.com^
 ||faokwl.sklepogrodniczy.pl^
 ||faqtjp.redley.com.br^
 ||farahatco.actonservice.com^
@@ -426201,6 +426211,7 @@
 ||farshake.com^
 ||farsnails.com^
 ||fashion.edm.globalsources.com^
+||fashionposter.com^
 ||fashion.tradeshow.globalsources.com^
 ||fastemu.co^
 ||fastenfather.com^
@@ -426231,6 +426242,7 @@
 ||fc.vodafone.de^
 ||fd.bawag.at^
 ||fdbs.actonservice.com^
+||fdgcore.com^
 ||fdiinc.actonservice.com^
 ||fd.ivoclar.com^
 ||fdkeip.azafashions.com^
@@ -426294,6 +426306,7 @@
 ||filtercutter.com^
 ||fimyxg.bloomberght.com^
 ||finalizeforce.com^
+||finalleague.com^
 ||finaloptics.com^
 ||financefear.com^
 ||financialeducation-info.uchicago.edu^
@@ -426325,7 +426338,9 @@
 ||fishspies.com^
 ||fitgreatest.com^
 ||fitnessmapper.com^
+||fitnesssponsor.com^
 ||fitwithalpine.com^
+||fiveplusthree.com^
 ||fivesidedsquare.com^
 ||fixedfold.com^
 ||fizopp.duluthtrading.com^
@@ -426346,6 +426361,7 @@
 ||flashplayerfeedback.adobe.com^
 ||flashstats.libsyn.com^
 ||flashtexting.com^
+||flatpebble.com^
 ||fleathecat.com^
 ||flexpod.ynsecureserver.net^
 ||flightark.com^
@@ -426367,6 +426383,7 @@
 ||flourishingpartnership.com^
 ||flowersonthebay.com^
 ||flowersornament.com^
+||flowerybunch.com^
 ||flowerycreature.com^
 ||floweryfact.com^
 ||floweryflavor.com^
@@ -426381,6 +426398,7 @@
 ||flyflightstar.com^
 ||flystranger.com^
 ||flysupercars.com^
+||flyyoung.net^
 ||fmbankva.actonservice.com^
 ||fmjgtp.dentalspeed.com^
 ||fmpjka.moroccanoil.com^
@@ -426493,6 +426511,7 @@
 ||fptls3.com^
 ||fptls4.com^
 ||fptls.com^
+||fp.uncensored.com^
 ||fp-upload.dun.163.com^
 ||fpvrgm.blackforestdecor.com^
 ||fpxewa.ilmeteo.it^
@@ -426527,6 +426546,7 @@
 ||frdoki.selftanning.work^
 ||frdoki.studioglass.work^
 ||frdoki.woodblock.work^
+||freakywacko.com^
 ||freedomgrail.com^
 ||freezingbuilding.com^
 ||frenchgerleman.actonservice.com^
@@ -426552,6 +426572,7 @@
 ||frztrk.netmums.com^
 ||fscareers.epoise.com^
 ||fs-client-logger.herokuapp.com^
+||fservr.com^
 ||fsm.lapresse.ca^
 ||fsresidential.actonservice.com^
 ||fsrv.io^
@@ -426561,6 +426582,7 @@
 ||ftfnews.actonservice.com^
 ||ftlaunchpad.ai^
 ||ftm.fluencyinc.co^
+||ftpmagic.com^
 ||ftuart.chomedeynissan.com^
 ||ftwo-feedback.autohome.com.cn^
 ||ftwo-receiver.autohome.com.cn^
@@ -426657,7 +426679,9 @@
 ||gadgetboy.net^
 ||ga.groc.press^
 ||gahhfg.bobo.com.br^
+||gaij.app^
 ||galileotelemetry.tencent.com^
+||gamerhunk.com^
 ||gamerone.net^
 ||gammamaximum.com^
 ||ganon.yahoo.com^
@@ -426706,6 +426730,7 @@
 ||gemorganic.com^
 ||generaleducation.graduateprogram.org^
 ||generalprose.com^
+||genomicswire.com^
 ||gentian-frd.hjapi.com^
 ||geobar.ziffdavisinternational.com^
 ||geo.bdg.com^
@@ -427175,6 +427200,7 @@
 ||grassrootsunwired.actonservice.com^
 ||gravitygive.com^
 ||gravitykick.com^
+||graychalk.com^
 ||graylog.prod.cams.run^
 ||grayoranges.com^
 ||grayreceipt.com^
@@ -427205,6 +427231,7 @@
 ||growth-channel.net^
 ||growthmodemarketing.actonservice.com^
 ||grow.urbandictionary.network^
+||g.rtbrain.app^
 ||grumpydime.com^
 ||grumpydrawer.com^
 ||grxsaq.tagheuer.com^
@@ -427303,6 +427330,7 @@
 ||harborcontrol.com^
 ||harborcub.com^
 ||hardinet.actonservice.com^
+||hardsixhockey.net^
 ||harlan.actonservice.com^
 ||harmantest.epoise.com^
 ||harmonywing.com^
@@ -427493,6 +427521,7 @@
 ||honestharbor.com^
 ||honeybulb.com^
 ||honeybutterbliss.com^
+||honeyscene.com^
 ||honorablehydrant.com^
 ||hoojts.demmelhuber.net^
 ||hookconference.com^
@@ -427502,6 +427531,7 @@
 ||horizononline.actonservice.com^
 ||hospitablehall.com^
 ||hospitablehat.com^
+||hostchutney.com^
 ||houston.advgo.net^
 ||howdoesthislook.com^
 ||hpark-adobe.branch.rocks^
@@ -428783,6 +428813,7 @@
 ||knewpenny.com^
 ||knfjhy.echo.msk.ru^
 ||knifetreasury.com^
+||knightface.com^
 ||knitstamp.com^
 ||knjybs.luminis-films.com^
 ||knopnf.asambeauty.com^
@@ -428879,6 +428910,7 @@
 ||lapkhy.aventon.com^
 ||lapwkd.feelgood-shop.com^
 ||largebrass.com^
+||largetony.com^
 ||lastanonymous.com^
 ||lasttaco.com^
 ||l.aufeminin.com^
@@ -428906,6 +428938,7 @@
 ||lbnrrh.autouncle.dk^
 ||l.brightside.com^
 ||l.bspace.io^
+||l.ca.ovhcloud.com^
 ||lcefua.timberland.ru^
 ||lc-event.pixiv.net^
 ||l.claphere.com^
@@ -431317,6 +431350,7 @@
 ||mg.mistrasgroup.com^
 ||mgn.ebis.xn--olsz5f0ufw02b.net^
 ||mgntat.mno.link^
+||mgrace.net^
 ||mhbhwilson1.net.mydays.de^
 ||mhizzr.eurorelais.nl^
 ||mhmzhc.trysnow.com^
@@ -431572,6 +431606,7 @@
 ||mwf7.montecarlowellness.com^
 ||mws.verisk.com^
 ||mx2.carte-gr.total.fr^
+||mxanalytics.youruncensoredai.workers.dev^
 ||mxdzxd.mister-auto.com^
 ||mx.eneba.com^
 ||mx.happ.social^
@@ -431731,6 +431766,7 @@
 ||newsvehicles.com^
 ||news.verimatrix.com^
 ||newtest.wunderman-email.cjm.adobe.com^
+||nextsmarty.com^
 ||nexttopchef.com^
 ||nexxtv-events.servicebus.windows.net^
 ||nffxqi.jorgebischoff.com.br^
@@ -431921,6 +431957,7 @@
 ||oafishobservation.com^
 ||oahu.shakaguide.com^
 ||oaizwm.zox.la^
+||o-api.hotukdeals.com^
 ||oasismarketing.oasisadvantage.com^
 ||obfrok.partyking.no^
 ||obhnrw.furniturebox.se^
@@ -431954,8 +431991,14 @@
 ||ocpgll.bannerbuzz.ca^
 ||ocpi.americanexpress.ca^
 ||ocs.hagerty.com^
+||ocular.chollometro.com^
 ||ocular.dealabs.com^
 ||ocular.hotukdeals.com^
+||ocular.mydealz.de^
+||ocular.pepperdeals.com^
+||ocular.pepperdeals.se^
+||ocular.pepper.pl^
+||ocular.preisjaeger.at^
 ||ocular.promodescuentos.com^
 ||ocwlhv.ecid.com.br^
 ||oda.markitondemand.com^
@@ -432354,6 +432397,7 @@
 ||painstakingpickle.com^
 ||paintmogul.com^
 ||paintpear.com^
+||pajamabrand.com^
 ||paleleaf.com^
 ||palramamericas.actonservice.com^
 ||pamelarandom.com^
@@ -433211,6 +433255,7 @@
 ||receive.wmcdp.io^
 ||receptivereaction.com^
 ||recessrain.com^
+||recipearena.com^
 ||recipepile.net^
 ||recipepin.com^
 ||reconditeprison.com^
@@ -433330,6 +433375,7 @@
 ||reporting.singlefeed.com^
 ||report.meituan.com^
 ||reports-api.sqreen.io^
+||report.senzia.cc^
 ||reports.hibu.com^
 ||reportsk.web.sdo.com^
 ||reports.sdiapi.com^
@@ -433601,6 +433647,7 @@
 ||rumsey.actonservice.com^
 ||rumt-sg.com^
 ||rumt-zh.com^
+||r.upload.app^
 ||ruralrobin.com^
 ||rusticfrench.com^
 ||rusticprice.com^
@@ -434325,6 +434372,7 @@
 ||skilledview.com^
 ||skillfullyfrugal.com^
 ||skillpuppy.com^
+||skinnytea.net^
 ||skisofa.com^
 ||skmcwz.haselmode.co.kr^
 ||skosgrill.openapp.link^
@@ -435504,6 +435552,7 @@
 ||spuriousstranger.com^
 ||sp.vtex.com^
 ||sp-wukong-tracker.b-cdn.net^
+||spyrep.com^
 ||spysubstance.com^
 ||sqdgwx.jobrapido.com^
 ||sqmazf.workamajig.com^
@@ -436046,6 +436095,7 @@
 ||stats.tax-venture.de^
 ||stats.tazeros.com^
 ||stats.teamdetails.com^
+||stats.techinate.com^
 ||stats.tedserbinski.com^
 ||stats.teenranch.com^
 ||stats.tekin.co.uk^
@@ -437131,6 +437181,7 @@
 ||t.ofsys.com^
 ||tofusquirrel.com^
 ||tomatobarrel.com^
+||tonanalytics.mugiwarattagentai.agency^
 ||tongji.duote.com^
 ||tongji.mafengwo.cn^
 ||tongji.meizu.com^
@@ -437181,6 +437232,7 @@
 ||tp.heine-shop.nl^
 ||t.pie.org^
 ||tpmexb.vans.co.nz^
+||tp.myikas.com^
 ||t.pointandplace.com^
 ||t.poki.io^
 ||t.portland5.com^
@@ -437722,6 +437774,7 @@
 ||track.yieldsoftware.com^
 ||track.youniversalmedia.com^
 ||track.zapimoveis.com.br^
+||tradedeli.com^
 ||traderbyte.com^
 ||tradeshow.edm.globalsources.com^
 ||tradetooth.com^
@@ -438275,6 +438328,7 @@
 ||tutorshelf.com^
 ||t.utrockets.com^
 ||tuvevx.agent-sana.com^
+||t.venice.ai^
 ||tver-metrics.streaks.jp^
 ||t.vibe.co^
 ||tvkfms.nta.co.jp^
@@ -438437,6 +438491,7 @@
 ||uncanny.marvel.com^
 ||uncanny.marvelkids.com^
 ||uncmbg.timberland.de^
+||uncommonalias.com^
 ||uncoveredexpert.com^
 ||understoodocean.com^
 ||undurs.1md.org^
@@ -439385,6 +439440,7 @@
 ||welcome.qualicoliving.com^
 ||welcome.visitthelandmark.com^
 ||welcome.vodafone.com^
+||wellbeingforce.com^
 ||wellgroomedapparel.com^
 ||wellgroomedhydrant.com^
 ||wemqip.misli.com^
@@ -439449,6 +439505,7 @@
 ||wistfulwaste.com^
 ||withsharks.com^
 ||withsounds.com^
+||wittyfamous.com^
 ||wittypopcorn.com^
 ||wittyshack.com^
 ||wizardbuck.com^
@@ -440043,6 +440100,7 @@
 ||yqqhbd.yotsuyaotsuka.com^
 ||yrepmy.jochen-schweizer.de^
 ||yrjpgjv35y9x.salud-masculina.info^
+||yrtace.com^
 ||ysl3.destinia.ec^
 ||ysuwrg.meritocomercial.com.br^
 ||ytbnvm.firadis.net^
