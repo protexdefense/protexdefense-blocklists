@@ -4,7 +4,7 @@
 ! Version: 1.0.0
 ! Homepage: https://github.com/protexdefense/adguard-all-list/
 ! License: Mixed
-! Last modified: 2026-11-02T06:02:21.245Z
+! Last modified: 2026-11-16T06:01:43.486Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -36418,6 +36418,7 @@
 ||api.mixpanel.com^
 ||api.mobula.ds.duapps.com^
 ||api.mobula.sdk.duapps.com^
+||api.moengage.com^
 ||api.monedata.iomericreceiver.cellrebel.com^
 ||api.myddns.me^
 ||api.myendpoint.io^
@@ -36576,7 +36577,9 @@
 ||apiujquery.com^
 ||apiuytxdxacumbo.xyz^
 ||apiv1android.cf^
+||apiv2.moengage.com^
 ||apiv2.tiin.vn^
+||apiv3.moengage.com^
 ||apiv4.subiz.com^
 ||apiwalletresolvenet.com^
 ||apiwebserver.com^
@@ -70946,6 +70949,7 @@
 ||cdn.manga9.co^
 ||cdn.mavi.digital^
 ||cdn.mobilefuse.com^
+||cdn.moengage.com^
 ||cdn.monsido.com^
 ||cdn.msedge.workers.dev^
 ||cdn.mxpnl.com^
@@ -440452,6 +440456,7 @@
 ||notif.generation-nt.com^
 |push.smp.
 |amp-user-notification-
+|larapush-popup-
 |push-worker-
 ||api-push.com^
 ||bildirim.com.tr^
@@ -440465,6 +440470,7 @@
 ||confirmit.com^
 ||conforama-push.com^
 ||controlpush.com^
+||css.xcss.me^
 ||css.xjsx.lol^
 ||digipush.io^
 ||dpns-notifications.com^
@@ -440475,6 +440481,7 @@
 ||linker.hr^
 ||luravius.com^
 ||my-pu.sh^
+||natom.app^
 ||neopush.io^
 ||news2day.me^
 ||notifee-manager.cz^
@@ -440486,10 +440493,12 @@
 ||notix.io^
 ||partishion.com^
 ||pathlime.com^
+||poosh.wizzo.media^
 ||popmechanic.ru^
 ||propush.net^
 ||push-engage.com^
 ||push.asahiinteractive.com^
+||push.brownbrothers.io^
 ||push.bytesignal.com^
 ||push.daksham.in^
 ||push.delivery.ethinking.de^
@@ -440510,6 +440519,7 @@
 ||pushbox.info^
 ||pushchev.info^
 ||pushdealer.com^
+||pushdeploy.estrema.it^
 ||pushe.co^
 ||pusherapp.com^
 ||pushinstruments.com^
@@ -440528,6 +440538,7 @@
 ||pushprofit.ru^
 ||pushprospush.com^
 ||pushpushgo.com^
+||pushsage.com^
 ||pushstack.it^
 ||pushtide.com^
 ||pushvip.ru^
@@ -440581,7 +440592,7 @@
 ||master-push.com^
 ||master-push.net^
 ||misrepush.com^
-||moengage.com^
+||moengage.com^$dnstype=~CNAME
 ||mp3vizor.com^
 ||najva.com^
 ||nativesubscribe.pro^
@@ -440627,6 +440638,10 @@
 |yorker-push-init.js^
 ||sdk.chirpyweb.com^
 .vafrike.ru^
+||app.notirabbit.com^
+||push.testabcd.top^
+||app.pushaja.com^
+||fontmenice.com^
 ||townrdwarfer.com^
 ||wstpush-mobile.terra.com^
 ||martabackrock.com^
@@ -440637,7 +440652,6 @@
 ||hotbbawese.cc^
 ||qepolax.com^
 ||tel1mekar.com^
-||d335luupugsy2.cloudfront.net^
 ||kuolkoola.com^
 ||puhyjyf.com^
 ||speraspace.com^
